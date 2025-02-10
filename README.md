@@ -4,9 +4,9 @@
 
 </div>
 
-### :slovakia: Slovenský Jazyk <a href="./SJL/SLOVENCINA.md">[SJL]</a>
-### :gb: Anglický Jazyk <a href="./ENG/ENGLISH.md">[ANJ]</a>
-### + :: Matematika <a href= "./MAT/MATEMATIKA.md">[MAT]</a>
+### <img src="https://flagcdn.com/sk.svg" width="30" alt="">&emsp;Slovenský Jazyk <a href="./SJL/SLOVENCINA.md">&emsp;[SJL]</a>
+### <img src="https://flagcdn.com/gb.svg" width="30" alt="">&emsp;Anglický Jazyk <a href="./ENG/ENGLISH.md">&emsp;&ensp;[ANJ]</a>
+### <img src="https://www.svgrepo.com/show/499849/calculator.svg" width="25" alt="">&nbsp;&emsp;Matematika <a href= "./MAT/MATEMATIKA.md">&emsp;&emsp;&ensp;[MAT]</a>
 
 ## Odborné Predmety
 ### Elektronika <a href= "./ELK/ELEKTRONIKA.md">[ELK]</a>
