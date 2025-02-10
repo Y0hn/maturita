@@ -3,6 +3,6 @@
     <a href="../README.md">Domov</a>
 </div>
 
-# Elektronika Jazyk
+# Elektronika
 
 </div>
