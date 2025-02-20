@@ -1,8 +1,8 @@
 <div align="center">
 <div align="left">
-    <a href="../README.md">Domov</a>
+    <a href="/README.md">Domov</a>
 </div>
 
-# Programovanie
+# Elektronika
 
 </div>
