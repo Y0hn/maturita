@@ -5,7 +5,6 @@
     <h1>OKRUHY MATURITNÝCH TÉM A ZADANÍ NA OPAKOVANIE UČIVA TČOZ</h1>
     <h3>(2561 M – INFORMAČNÉ A SIEŤOVÉ TECHNOLÓGIE)</h3>
 </div>
-
 <br><br>
 
 ## Elektrotechnické predmety

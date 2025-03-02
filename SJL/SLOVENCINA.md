@@ -3,12 +3,15 @@
         <a href="/README.md">Domov</a>
     </div>
 
-# Slovenský Jazyk
+# Slovenský Jazyk a Literatúra
 </div>
 
-### <a href="./okruhy.md"> Maturitne okruhy</a>
+### [Materiály](https://drive.google.com/drive/u/1/folders/1hWhZNvgWC-8cb7jK5zRorX9WfCzyq_WF)
+### [Okruhy pre ústnu časť](./ustne-okruhy.md)
 
-## Gramatika
+<br>
+
+## Jazyk
 
 
 ### Jazykové štýly
@@ -27,4 +30,6 @@
 <a href="./gramatika/postupy/rozpravaci.md">[R]</a> Rozprávací <br>
 
 ## Literatúra
-
+<div align="center">
+    <img src="./Prilohy/literatura_casova_os.png" width="200" height="1000"/>
+</div>
