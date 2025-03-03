@@ -1,7 +1,12 @@
 <div align="left">
     <a href="/README.md">Domov</a>
     >
-    <a href="./SLOVENCINA.md">Naspäť</a>
+    <a href="./SLOVENCINA.md">SJL</a>
+</div>
+<div align="right">
+    <a href="./ustne-otazky.md">Prehľad otázok</a>
+    |
+    <a href="https://drive.google.com/drive/u/1/folders/1hWhZNvgWC-8cb7jK5zRorX9WfCzyq_WF">Materály</a>
 </div>
 
 # ÚFIČ - TEMATICKÉ OKRUHY NA OPAKOVANIE UČIVA

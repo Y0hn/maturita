@@ -158,4 +158,4 @@
 ## Zdroje
 Materialy: ``` https://www.spsjm.sk ``` ```https://spsjm.edupage.org```
 <br>
-Ikony: ``` https://www.svgrepo.com ```
+Ikony: ```https://www.svgrepo.com```
