@@ -152,10 +152,15 @@
 </div>
 <br><br>
 
-## Stiahnuť
-<a href="https://github.com/Y0hn/maturita/archive/refs/heads/main.zip"><img src="https://www.svgrepo.com/show/468686/download.svg" width="30" alt="[DOWNLOAD]"></a>
+-----------------------------------------------------------------------
+
+<div align="center">
+    <a href="https://github.com/Y0hn/maturita/archive/refs/heads/main.zip"><img src="https://www.svgrepo.com/show/468686/download.svg" width="50" alt="[DOWNLOAD]"></a>
+</div>
 
 ## Zdroje
-Materialy: ``` https://www.spsjm.sk ``` ```https://spsjm.edupage.org```
+Materialy: ```https://www.spsjm.sk``` ```https://spsjm.edupage.org```
+<br>
+[OneDrive](https://onedrive.live.com/?authkey=%21AHGlYhm09j37YJc&id=C88AD62C8E31C5AE%2159156&cid=C88AD62C8E31C5AE)
 <br>
 Ikony: ```https://www.svgrepo.com```

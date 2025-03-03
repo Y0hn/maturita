@@ -7,7 +7,7 @@
     <div align="right">
         <a href="./ustne-okruhy.org.md">Okruhy</a>
         |
-        <a href="https://drive.google.com/drive/folders/">Materály</a>
+        <a href="https://drive.google.com/drive/folders/1gVmqfKtTHw-QOi3TQ-ucUr2iAbUWqtaG?usp=sharing">Vypracovanie</a>
     </div>
 
 # Prehľad otázok ÚFIČ
