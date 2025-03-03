@@ -1,5 +1,6 @@
 <div align="left">
     <a href="/README.md">Domov</a>
+    >
     <a href="./SLOVENCINA.md">Naspäť</a>
 </div>
 

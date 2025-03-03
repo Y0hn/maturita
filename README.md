@@ -152,6 +152,9 @@
 </div>
 <br><br>
 
+## Stiahnuť
+<a href="https://github.com/Y0hn/maturita/archive/refs/heads/main.zip"><img src="https://www.svgrepo.com/show/468686/download.svg" width="30" alt="[DOWNLOAD]"></a>
+
 ## Zdroje
 Materialy: ``` https://www.spsjm.sk ``` ```https://spsjm.edupage.org```
 <br>

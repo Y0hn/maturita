@@ -2,12 +2,14 @@
     <div align="left">
         <a href="/README.md">Domov</a>
     </div>
+    <div align="right">
+        <a href="ustne-okruhy.md">Okruhy Ústnej Časti</a>
+        |
+        <a href="https://drive.google.com/drive/u/1/folders/1hWhZNvgWC-8cb7jK5zRorX9WfCzyq_WF">Materály</a>
+    </div>
 
 # Slovenský Jazyk a Literatúra
 </div>
-
-### [Materiály](https://drive.google.com/drive/u/1/folders/1hWhZNvgWC-8cb7jK5zRorX9WfCzyq_WF)
-### [Okruhy pre ústnu časť](./ustne-okruhy.md)
 
 <br>
 
