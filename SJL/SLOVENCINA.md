@@ -3,6 +3,8 @@
         <a href="/README.md">Domov</a>
     </div>
     <div align="right">
+        <a href="./pisomne-sloh.org.md">Sloh</a>
+        |
         <a href="./timeline.md">Časová Os</a>
         |
         <a href="./ustne-otazky.md">Otázky</a>
