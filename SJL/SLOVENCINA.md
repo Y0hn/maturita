@@ -16,14 +16,11 @@
 
 # Slovenský Jazyk a Literatúra
 </div>
-
-<br>
+<br><br>
 
 ## Jazyk
 
-
 ### Jazykové štýly
-
 <a href="./gramatika/styly/hovorovy.md">[H]</a> Hovorový <br>
 <a href="./gramatika/styly/administrativny.md">[A]</a> Administratívny <br>
 <a href="./gramatika/styly/recnicky.md">[R]</a> Rečnícky <br>
@@ -37,129 +34,19 @@
 <a href="./gramatika/postupy/opisny.md">[O]</a> Opisný <br>
 <a href="./gramatika/postupy/rozpravaci.md">[R]</a> Rozprávací <br>
 
+<br><br>
+
 ## Literatúra
 
-### Staroveká
-#### Sumerská
-##### Epos o Gilgamešovi
-#### Hebrejská
-##### Biblia
-#### Antická
-##### Grécka
-###### Homér : Ilias
-###### Homér : Odysea
-###### Sofokles : Antigona
-##### Rímska
+### Obsah
+[Starovek](./obdobia/starovek.md)                   <br>
+[Stredovek](./obdobia/stredovek.md)                 <br>
+[Renesancia a Humanizmus](./obdobia/hum-a-ren.md)   <br>
+[Barok](./obdobia/barok.md)                         <br>
 
-### Stredovek
-#### Staroslovenská
-- Konštantín a Metod
-
-### Humanizmus a Renesancia
-#### Talianska
-##### Dante Aligiery : Božská komédia
-#### Anglická
-##### William Shakespeare
-<ul>
-    <li>
-        Komédie
-        <ul>
-            <li>
-                Skrotenie zlej ženy
-            </li><li>
-                Sen noci svätojánskej
-            </li>
-        </ul>
-    </li><li>
-        Hry
-        <ul>
-            <li>
-                Henrich VI.
-            </li><li>
-                Richard
-            </li>
-        </ul>        
-    </li><li>
-        Tragédie
-        <ul>
-            <li>
-                Hamlet
-            </li><li>
-                Rómeo a Júlia
-            </li>
-        </ul>
-    </li>
-</ul>
-
-#### Španielska
-##### Miguel de Cervates Saavedra : Dômzselný rytier Don Quijote de la Mancha
-
-### Barok (u nás)
-#### Matej Bel
-#### Hugolín Gavlovič : Valašská škola mravuv stodola
-
-### Klasicizmus
-- Osvietenectvo
-#### Jean Baptiste Poquelin Moliére : Lakomec
-#### Ján Kollár : Slávy dcera 
-#### Anton Bernolák
-
-### Romantizmus
-#### Viktor Hugo : Chrám matky božej v Paríži
-#### Alexander Sergejevič Puškin : Kapitánová dcéra
-#### Samo Chalúpka : Mor ho!
-#### Janko Kráľ : Zakliata panna vo Váhu a divný Janko
-#### Ján Botto
-
-### Realizmus
-#### F.M. Dostojevskij : Zločin a trest
-#### Martin Kukučín : Keď Báčik z Chochoľova umrie
-#### Martin Kukučín : Rysavá Jalovica
-#### Martin Kukučín : Dom v stráni 
-#### Pavol Országh Hviezdoslav : Hájnikova žena
-#### Jozef Gregor Tajovský : Maco Mlieč
-
-### Moderna
-#### Ivan Krasko : Nox et solituda
-#### Ivan Krasko : Otcova roľa
-
-### Medzivojnová
-#### Americká
-##### Ernest Hemingway : Starec a more
-##### Ernest Hemingway : Zbohom zbraniam
-#### Francúzska
-##### Romain Rolland : Peter a Lucia
-#### Nemecká
-##### Erich Maria Remarque : Na západe nič nové
-#### Česká
-##### Karel Čapek
-##### Franz Kafka : Premena
-#### Slovenská
-##### Ján Smrek : Básnik a žena
-##### Ján Smrek : Cválajúce dni
-##### Emil Boleslav Lukáč : Taedium urbis 
-- (Hnus z mesta)
-##### Jozef Cíger Hronský : Jozef Mak
-človek milión
-##### Milo Urban : Živý Bič
-##### Július Barč-Ivan : Matka
-##### Margita Figuli : Tri gaštanové kone
-- naturizmus
-##### Dobroslav Chrobák : Drak sa vracia
-- naturizmus
-
-### Povojnová (po 1945)
-#### Americká
-##### Jean David Stalinger : Kto chytá v žite
-##### John Steinback : O myšiach a ľuďoch
-#### Francúzska
-##### Jean-Paul Sartre : Múr
-#### Ruská
-##### Alexander Solženicyn : Jeden deň Ivana Denisoviča
-#### Slovenská
-##### Milan Rúfus : Zvony detstva
-##### Miroslav Válek : Jablko
-##### Jozef Urban : Voda čo ma drží nad vodou
-##### Alfonz Bednár : Kolíska
-##### Ladislav Mňačko : Ako chutí moc
-##### Dušan Dušek : Pes
+[Klasicizmus](#klasicizmus)                         <br>
+[Romantizmus](#romantizmus)                         <br>
+[Realizmus](#realizmus)                             <br>
+[Moderna](#moderna)                                 <br>
+[Medzivojnová](#medzivojnová)                       <br>
+[Povojnová](#povojnová-po-1945)                     <br>
