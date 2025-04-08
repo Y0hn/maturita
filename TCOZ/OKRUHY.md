@@ -2,8 +2,9 @@
     <a href="/README.md">Domov</a>
 </div>
 <div align="center">
-    <h1>OKRUHY MATURITNÝCH TÉM A ZADANÍ NA OPAKOVANIE UČIVA TČOZ</h1>
-    <h3>(2561 M – INFORMAČNÉ A SIEŤOVÉ TECHNOLÓGIE)</h3>
+    <h1>OKRUHY MATURITNÝCH TÉM A ZADANÍ NA OPAKOVANIE UČIVA 
+    </h1>
+    <h3>TČOZ (2561 M – INFORMAČNÉ A SIEŤOVÉ TECHNOLÓGIE)</h3>
 </div>
 <br><br>
 
@@ -174,39 +175,39 @@
 - Vonkajšie pamäte (HDD – fyzická štruktúra, logická rozdelenie disku)
 - Zavádzanie OS (BIOS, POST, Boot Loader, MBR)
 - Operačný systém (definícia, úlohy OS, hierarchia softvérového vybavenia, architektúra OS)
+- Virtualizácia
 
 ## Serverové technológie
 
 ### OS Windows Server
 
-- Serverové systémy, serverovňa, rack (výkon, spoľahlivosť, redundancia)
-- Diskové polia RAID
-
-
+- Serverové systémy, serverovňa
 - Konfigurácia presného času v serverových systémoch
-- Konfigurácia sieťových parametrov v serverových systémoch
-- Doménový názvový hierarchický internetový priestor
-- DMZ
-- Serverová rola – DHCP server
-- Serverová rola – DNS server
-- Serverová rola – IIS server
-- Serverová rola – AD server
+- Demilitarizovaná zóna v serverovniach
+- Serverové role 
+    - DHCP
+    - IIS 
+    - DNS 
+    - AD 
 
 ### OS Linux
+
+- Architektúra OS Linux
 
 - Konfigurácia sieťových rozhraní v OS Linux
 - Konfiguráciu sieťových zariadení v OS Linux
 - Správa služieb v OS Linux
+
 - Správa procesov v OS Linux
 - Oprávnenia súborového systému v OS Linux
 - Správa používateľských účtov v OS Linux
 - Objekty v OS Linux (adresár, súbor, symlink, hardlink, pipe)
-- Súborové systém ext4 a btrfs
+- Súborový systém ext4 a btrfs
 - Inštalácia programov v OS Linux
+
 - Systém Netfilter v OS Linux
-- Filtrovanie paketov v NFT
 - Konfigurácia Nginx
-- Použitie OpenSSL so serverom
+- Autentifikácia v SSH
 
 ## Sieťové technológie
 
@@ -273,8 +274,9 @@
 - pojem kybernetická bezpečnosť, kyberpriestor, CIA, prvky kybernetickej bezpečnosti
 - životný cyklus kybernetickej bezpečnosti, riziko, aktívum, zraniteľnosť
 - definovať pojmy : kybernetická hrozba, kybernetický útok, kyberkriminalita
-- typy kybernetických hrozieb (botnet, malware, phishing, hacking, ransomware, sociálne inžinierstvo,
-    DoS, spam atď.), vedieť rozlíšiť jednotlivé kybernetické hrozby
+- typy kybernetických hrozieb (botnet, malware, phishing, hacking, ransomware, sociálne inžinierstvo,DoS, spam atď.), vedieť rozlíšiť jednotlivé kybernetické hrozby
+- Šifrovanie, elektronický podpis
+
 
 ## Finančná gramotnosť
 
@@ -301,3 +303,4 @@
 - Verejné a komerčné poistenie.
 - Manažment.
 - Podnikateľský zámer. Podnikateľský zámer – plán, charakteristika jeho častí.
+- Projektové riadenie. Fázy projektu, finančné plánovanie, časový harmonogram, eliminácia rizík.
