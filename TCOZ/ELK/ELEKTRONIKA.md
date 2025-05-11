@@ -11,31 +11,22 @@
 # Elektronika
 </div>
 
-
-<div style="display: flex; justify-content: space-between;">
-    <span style="font-size: 20px;">
-        <a href= "/TCOZ/ELK/ELS/ELEKTOTECHICKA_SPOSOBILOST.md">
-            <img src="https://www.svgrepo.com/show/509554/caution-electricity.svg" width="25" alt="[ELS]">
-        </a>
-        Elektrotechnická Spôsobilosť
-    </span>
-    <span><a href= "/TCOZ/ELK/ELS/ELEKTOTECHICKA_SPOSOBILOST.md">[ELS]</a></span>
-</div>
+## Obsah
+[Jednosmerné a striedavé obvody](#jednosmerné-a-striedavé-obvody)
 
 # Jednosmerné a striedavé obvody
 
 ## Ohmov zákon, Kirchhoffové zákony
-```
-U=R×I
-```
+$U=R×I$
+
 Ak lineárnym rezistorom s odporom R preteká prúd I vytvorí sa na jeho svorkách úbytok napätia U
-```
-R=U/I
-```
+
+$R=U/I$
+
 Podiel napätia a prúdu je veličina stála a nazýva sa elektrický odpor
-```
-I=U/R
-```
+
+$I=U/R$
+
 Prúd, ktorý preteká lineárnym rezistorom je priamo úmerný napätiu na jeho svorkách a nepriamo úmerný jeho veľkosti
 
 **VACH(volt ampérová charakteristika)** -  grafické znázornenie ohmovho zákona
@@ -45,7 +36,7 @@ Prúd, ktorý preteká lineárnym rezistorom je priamo úmerný napätiu na jeho
 <ol>
     <li>
         <b>Kirchhoffov zákon</b><i> – o prúdoch a uzloch</i><br>
-        <img src='./img/sch1.png'>
+        <img src='./img/sch1.png' align='left' width=50%>
         <table>
           <tr>
             <th>1. KZ pre uzol A</th>
@@ -60,24 +51,24 @@ Prúd, ktorý preteká lineárnym rezistorom je priamo úmerný napätiu na jeho
             <td>0 = I<sub>2</sub> + I<sub>3</sub>- I<sub>1</sub></td>
           </tr>
         </table>
-        <p>Súčet prúdov do uzla vtekajúcich sa rovná súčtu prúdu z uzla vytekajúcich (druhé znenie: algebrický súčet prúdov v uzle sa rovná nule)</p>
+        <p>Súčet prúdov do uzla vtekajúcich sa rovná súčtu prúdu z uzla vytekajúcich (druhé znenie: algebrický súčet prúdov v uzle sa rovná nule)</p><br>
     </li><li>
         <b>Kirchhoffov zákon</b><i> – o napätiach a slučkách</i><br>
-        <img src='./img/sch2.png'>
+        <img src='./img/sch2.png' align='left' width=50%>
         <table>
           <tr>
             <th>V uzavretej slučke je súčet napätí rovné nule</th>
             <th>Súčet úbytkov napätí je rovné napätí na zdroji</th>
           </tr>
           <tr>
-            <td>U<sub>R1</sub> + U<sub>R3</sub> - U = 0</td>
+            <td>0 = U<sub>R1</sub> + U<sub>R3</sub> - U</td>
             <td>U = U<sub>R1</sub> + U<sub>R3</sub></td>
           </tr>
         </table>
     </li>
 </ol>
 
-## Výpočet sériového, paralelného a kombinovaného zapojenia s rezistormi 
+### Výpočet sériového, paralelného a kombinovaného zapojenia s rezistormi 
 <ol>
     <li>
         <b>Sériové zapojenie</b><br>
@@ -213,6 +204,7 @@ Prúd, ktorý preteká lineárnym rezistorom je priamo úmerný napätiu na jeho
 
 ### Výpočet C a L z fyzických rozmerov súčiastok
 C = ε<sub>0</sub> × ε<sub>r</sub> S/d [F] <br>
+<img src='./img/sch7.png' align='right'>
 <ul type=none>
     <li>
         ε<sub>0</sub> = permitivita vákua (8,854*10-12 F/m) 
@@ -237,4 +229,55 @@ L = N² * μ * S / l      [H]<br>
         l =  dĺžka cievky
     </li>
 </ul>
+
+## Elektrostatické(elektrické) a magnetické pole
+<ol>
+    <li>
+        <h3>Elektrostatické pole</h3>
+        <p>Je to pole statických nábojov – Q[C]     C- coulomb(jednotka veličiny)
+        </p><p>
+        Coulombov zákon – vyjadruje veľkosť akou na seba pôsobia 2 statické náboje Q1, Q2 v rôznom prostredí ε , vo vzdialenosti r
+
+$$F = \frac{1}{4\pi\varepsilon} \cdot \frac{Q_1 \cdot Q_2}{r^{2}}$$
+
+$\epsilon = \epsilon_0 * \epsilon_r$<br>
+$ Q_1, Q_2 $ → veľkosť nábojov<br>
+$ r $ → vzdialenosť medzi nábojmi
+
+_**Intenzita elektrostatického poľa**_
+
+$$E = \frac{F}{Q}\ldots.\left\lbrack \frac{N}{C} \right\rbrack\ \ \ \ \ \ \ \ \ \ \ \ \ \ E = \frac{U}{d}\ldots\ldots.\left\lbrack \frac{V}{m} \right\rbrack$$
+
+- Vektorová veličina -> má veľkosť, smer, pôsobisko
+- Znázornenie intenzity -> siločiary  
+
+<img src='./img/g2.png'>
+$E_1 = \frac{1}{4\pi\varepsilon}\ .\frac{Q_1}{r_1}\ $  
+$E_2 = \frac{1}{4\pi\varepsilon}\ .\frac{Q_2}{r_2}\ $  
+$E = E_1 + E_2 $ → intenzita v danom mieste
+
+<br>
+
+_**Elektrická indukcia**_ 
+
+$$D = \frac{Q}{S}\ldots.\left\lbrack \frac{C}{m²} \right\rbrack$$
+
+- Náboj, ktorý sa indukuje, nahromadí na jednotkovej ploche vodiča, vloženého do vonkajšieho elektrostatického poľa  
+- Množstvo naindukovaného náboja závisí od polohy vodiča v poli  
+- Ak je vodič otočený pod uhlom 90º → D= 0 → D = Q/S * cos α( cos 90 = 0)  
+
+</li><li>
+**Magnetické pole**  
+Jeho vznik spôsobuje pohyb elektrónov  
+
+permanentný magnet -- pohybujúci sa elektrón, prúdovodič -- pohybujúci sa elektrón  
+
+Druhy magnetických látok -- feromagnetické, diamagnetické, paramagnetické  
+
+[Magnetické napätie]{.underline} - Um[A]  
+Je vyvolávané prúdom  
+
+Um pre jeden vodič → Um = I  
+Um pre viac vodičov → Um = I1 + I2 + ... In  
+Um pre cievku → Um = N * I (N- počet závitov cievky)  
 
