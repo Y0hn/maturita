@@ -179,15 +179,17 @@ $R = \rho*\frac{l}{S}$
 ## Výpočet C a L z fyzických rozmerov súčiastok
 <img src='./img/sch7.png' align='right' width=40%>
 
-$$C = \varepsilon_{0} \cdot \varepsilon_{r} \cdot \frac{S}{d}\ \lbrack F\rbrack$$
+$$C = \varepsilon_{0} \cdot \varepsilon_{r} \cdot \frac{S}{d}$$
 
+$C$ - kapacita ... $[F]$ farad   
 $ε_0$ = permitivita vákua (8,854*10^-12^ F/m)  
 $ε_r$ = relatívna permitivita materiálu  
 S = plocha dosiek kondenzátora  
 d = vzdialenosť medzi dielektrikami(priemer dielektrika)  
 
-$$L = N² * μ * S / l \ [H]$$
+$$L = N² * μ * S / l$$
 
+$L$ - indukcia ... $[H]$ henry   
 N = počet závitov cievky  
 μ(mí) = magnetická priepustnosť jadra (permeabilita prostredia H/m)  
 S = prierez cievky  
@@ -288,9 +290,9 @@ $\omega$(omega) - uhlová rýchlosť → Ѡ = 2 * π * f
 $t$ - čas  
 
 ### 2. L (Cievka)
-- u~L~ a i sú posunuté o 90º, u~L~ predbieha prúd(cievka posúva napätie o 90º dopredu)  
+- $u_L$ a i sú posunuté o 90º, u~L~ predbieha prúd(cievka posúva napätie o 90º dopredu)  
 - napätie je Um vtedy, keď prúd je 0  
-- X~L~ je frekvenčne závislý, so stúpajúcou frekvenciou stúpa odpor  
+- $X_L$ je frekvenčne závislý, so stúpajúcou frekvenciou stúpa odpor  
 
 $$u_{L} = U_{m} \cdot {sin(}\omega \cdot t + \ 90)$$  
 $$i = I_{m} \cdot \sin\omega \cdot t$$  
