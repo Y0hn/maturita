@@ -67,7 +67,7 @@ $R = R1 + R2 + R3$
 
 ### 2. **Paralelne zapojenie**
 
-<img src='./img/sch4.png' align='right' width=40%>
+<img src='./img/sch4.png' align='right' width=50%>
 
 $I = I1 + I2 + I3$  
 
@@ -85,7 +85,7 @@ $\frac{1}{R} = \frac{1}{R_{1}} + \frac{1}{R_{2}} + \frac{1}{R_{3}}$
 
 ### 3. Sériovo paralelne
 
-<img src='./img/sch5.png' align='center' width=70%>
+<img src='./img/sch5.png' align='center' width=80%>
 
 
 | $R_1$ | $R_2$ | $R_3$ | $R_4$ | $R_5$ | $R_6$ | 
@@ -291,55 +291,49 @@ Y - Admitancia [S]
 
 <img src='./img/schg.png'>
 
-
-<END HERE>
-----------------------------------------------------------
 ## Okamžitá, maximálna, efektívna hodnota striedavého U a I
 
-1. **Okamžitá**  
+### 1. Okamžitá  
 Je to hodnota v konkrétnom čase  
 
 $$u = U_{m} \cdot \sin\omega \cdot t$$  
 $$i = I_{m} \cdot \sin\omega \cdot t$$  
 
-Ѡ(omega) -- uhlová rýchlosť → Ѡ = 2 * π * f  
-t -- čas  
-u , i -- okamžitá hodnota  
+$\omega$ (omega) - uhlová rýchlosť → $\omega = 2 * π * f$  
+t → čas  
+u , i → okamžitá hodnota  
 
-2. **Maximálna**  
+### 2. Maximálna  
 Je to najväčšia výchylka okamžitej hodnoty od 0 → najväčšia hodnota U, I  
 
 $$U_{\max} = U_{ef} \cdot \sqrt{2}$$  
 $$I_{\max} = I_{ef} \cdot \sqrt{2}$$  
 
-3. **Efektívna**  
+### 3. Efektívna
 Hodnota, ktorá má rovnaké tepelné účinky ako jednosmerný prúd  
 
 $$U_{ef} = \frac{U_{\max}}{\sqrt{2}}$$  
 $$I_{ef} = \frac{I_{\max}}{\sqrt{2}}$$  
 
 # Polovodičové súčiastky
-
 ## Fyzikálna podstata polovodiča
-
 Sú to materiály, ktoré majú vlastnosti medzi vodičmi a izolantmi. Sú to prvky z 4 skupiny periodickej tabuľky.  
-
-Princíp: V čistom vstave má 4 elektróny na valenčnej vrstve, ktoré vytvárajú kovalentné väzby s atómami. Pri vyššej teplote alebo osvietení sa elektróny môžu z väzieb oddeliť. Voľné elektróny sa môžu pohybovať(vedia elektrický prúd), po ich oddelení vzniká dierka.  
+**Princíp:** V čistom vstave má 4 elektróny na valenčnej vrstve, ktoré vytvárajú kovalentné väzby s atómami. Pri vyššej teplote alebo osvietení sa elektróny môžu z väzieb oddeliť. Voľné elektróny sa môžu pohybovať(vedia elektrický prúd), po ich oddelení vzniká dierka.  
 
 ## Vlastná a nevlastná vodivosť polovodiča typu P, N
 
-1. **Vlastná vodivosť**  
+### 1. Vlastná vodivosť
 Polovodič bez prídavných atómov, vodivosť vzniká iba pôsobením tepla alebo svetla  
 Pri uvoľnení elektrónu vzniká dierka, množstvo dier a elektrónov je rovnaké  
 
-2. **Nevlastná vodivosť**  
+### 2. Nevlastná vodivosť  
 Dosahuje sa dopovaním → pridaním malého množstva cudzích atómov, ktoré zmenia počet elektrónov  
 
-[Polovodič typu N:]{.underline}  
+### Polovodič typu N:  
 Medzi atómy zo 4 skupiny je primiešaný prvok z 5 skupiny  
 4 elektróny vytvoria väzbu a ostáva 1 elektrón naviac. Elektróny sú hlavné(majoritné) nosiče náboja a dierky minoritné  
 
-[Polovodič typu P:]{.underline}  
+### Polovodič typu P:
 Medzi atómy zo 4 skupiny je primiešaný prvok z 3 skupiny  
 Na vytvorenie väzby chýba 1 elektrón → vzniká dierka. Dierky sú hlavné nosiče náboja a elektróny minoritné  
 
@@ -349,16 +343,15 @@ Je to elektronická súčiastka, ktorá prepúšťa prúd iba v jednom smere
 
 Tvorí ju PN priechod → je to spojenie polovodiču typu P a N, elektróny a dierky sa navzájom zrušia a vznikne oblasť bez voľných elektrónov(hradlová vrstva). Pri kladnom napätí prechádza prúd a pri zápornom neprechádza.  
 
-![Elektrotechnika I](media/image27.png){width="3.4479166666666665in" height="2.3493055555555555in"}  
-![Dióda -- Wikipédia](media/image28.jpeg){width="2.6041666666666665in" height="1.0104166666666667in"}  
+![Elektrotechnika I](img/schg2.png)
 
 Môže byť zapojená v priepustnom a závernom smere  
 
-[Priepustný:]{.underline}  
+### Priepustný: 
 Anóda je pripojená na kladný pól a katóda na záporný  
 Prúd začne výrazne tiecť po prekročení prahového napätie(0,7V pre kremík)  
 
-[Záverný:]{.underline}  
+### Záverný:  
 Anóda je pripojená na záporný pól a katóda na kladný  
 Prúd netečie. Pri príliš veľkom napätí vie dôjsť k prerazeniu diódy a jej poškodeniu  
 
@@ -366,26 +359,20 @@ Prúd netečie. Pri príliš veľkom napätí vie dôjsť k prerazeniu diódy a 
 
 ## Špeciálne diódy, Zenerová dióda, Varikap
 
-1. **Zenerová dióda**  
-
-![Druhy polovodičových diod | ELUC](media/image29.png){width="2.6819444444444445in" height="2.8125in"}  
+### 1. Zenerová dióda
 Zapája sa v závernom smere, pri určitom napätí(zenerové napätie) začne viesť prúd v závernom smere bez zničenia. V priepustnom smere sa správa ako klasická dióda  
+<img src='img/sch11.png' width=65%><img src='img/g6.png' width=35%>  
 
 Využíva sa na stabilizáciu napätia a aj ako ochrana pred prepätím  
 
-![Zenerova dióda (stabilizačná dióda)](media/image30.png){width="2.5948840769903763in" height="0.8854166666666666in"}  
-
-2. **Varikap**  
+### 2. Varikap  
 Mení svoju kapacitu v závislosti od napätia v závernej polarizácií. Pri závernom napätí sa zväčší PN priechod a tým sa mení kapacita → čím väčšie U tým je menšia kapacita.  
 
-![4](media/image31.png){width="3.1041666666666665in" height="2.295138888888889in"}  
 Využíva sa v laditeľných rádiových obvodoch, mobiloch, televízoroch  
+<img src='img/schg3.png'> 
 
-![Varikap (kapacitná dióda)](media/image32.png){width="3.1347222222222224in" height="1.5208333333333333in"}  
-
-## Tranzistory -- bipolárne, unipolárne, porovnanie, značka, VACH, hybridné parametre
-
-1. **Tranzistory**  
+## Tranzistory 
+- bipolárne, unipolárne, porovnanie, značka, VACH, hybridné parametre
 Delíme ich na:  
 - Bipolárne → PNP, NPN  
 - Unipolárne → FET, JFET, MISFET, MOSFET  
@@ -394,7 +381,7 @@ Je to aktívny zosilňovací prvok, zložený z polovodičov, PN priechody
 
 Použitie: zosilňovač, spínač  
 
-2. **Bipolárne**  
+### 1. Bipolárne  
 Tranzistor skladá sa z 2 PN priechodov(3 polovodiče), ktoré musia byť polarizované:  
 - Emitor, báza v priepustnom smere  
 - Kolektor, báza v závernom smere  
@@ -402,87 +389,79 @@ Tranzistor skladá sa z 2 PN priechodov(3 polovodiče), ktoré musia byť polari
 Malým bázovým prúdom ovplyvňujeme(regulujeme) veľký prúd na emitore  
 Na vedení prúdu sa využívajú obidva druhy nosičov náboja(elektróny, dierky)  
 
-NPN -- hlavným nosičom náboja sú elektróny  
-PNP -- hlavným nosičom náboja sú dierky  
+NPN - hlavným nosičom náboja sú elektróny  
+PNP - hlavným nosičom náboja sú dierky  
 
-Použitie -- zosilňovač(externé napájanie), spínač, logické funkcie -- 0, 1  
+Použitie - zosilňovač(externé napájanie), spínač, logické funkcie -- 0, 1  
+<img src='img/sch12.png'> 
+ 
 
-![Elektronika, bipolární tranzistory](media/image33.png){width="2.817361111111111in" height="1.4583333333333333in"}  
+#### Zapojenia:
+   1. Spoločný Emitor  
+      - Malý vstupný odpor, relatívne veľký výstupný odpor  
+      - Veľké prúdové, napäťové, výkonové zosilnenie  
+   2. Spoločný kolektor(emitorový sledovač)  
+      - Veľký vstupný odpor, malý výstupný  
+      - Malé napäťové, výkonové zosilnenie, veľké prúdové zosilnenie  
+   3. Spoločná báza  
+      - Malý vstupný odpor, veľký výstupný odpor  
+      - Použitie na reguláciu napätia  
 
-[Zapojenia:]{.underline}  
-1. Spoločný Emitor  
-   - Malý vstupný odpor, relatívne veľký výstupný odpor  
-   - Veľké prúdové, napäťové, výkonové zosilnenie  
+<img src='img/g7.png'>
 
-2. Spoločný kolektor(emitorový sledovač)  
-   - Veľký vstupný odpor, malý výstupný  
-   - Malé napäťové, výkonové zosilnenie, veľké prúdové zosilnenie  
+#### Hybridné parametre:  
+$H_{11} = ΔU_{BE} / ΔI_{BE}$ - vstupný dynamický odpor  
+$H_{21} = ΔI_{C} / ΔI_{B}$ - prúdový zosilňovací činiteľ  
+$H_{12} = ΔU_{BE} / ΔU_{CE}$ - napäťové zosilnenie v spätnom smere  
+$H_{22} = ΔI_{C} / ΔU_{CE}$ - výstupná vodivosť  
 
-3. Spoločná báza  
-   - Malý vstupný odpor, veľký výstupný odpor  
-   - Použitie na reguláciu napätia  
-
-![Základní zapojení bipolárních tranzistorů | ELUC](media/image34.png){width="4.9075in" height="4.0625in"}  
-
-[Hybridné parametre:]{.underline}  
-H~11~ = ΔU~BE~ / ΔI~BE~ - vstupný dynamický odpor  
-H~21~ = ΔI~C~ / ΔI~B~ - prúdový zosilňovací činiteľ  
-H~12~ = ΔU~BE~ / ΔU~CE~ - napäťové zosilnenie v spätnom smere  
-H~22~ = ΔI~C~ / ΔU~CE~ - výstupná vodivosť  
-
-3. **Unipolárne([Link_naviac_info_schémy](https://www.kis.fri.uniza.sk/~ludo/e-Publikacia/elektronika/kap3/index.html))**  
+### 2. Unipolárne ([link](https://www.kis.fri.uniza.sk/~ludo/e-Publikacia/elektronika/kap3/index.html))  
 Na vedení prúdu sa zúčastňujú iba nosiče náboja jednej polarity( dierky alebo elektróny)  
 Má Kolektor, Emitor, Gate  
 
 FET = field efect tranzistor (pólom riadený tranzistor)  
 
-1. **JFET**  
+#### 1. JFET  
 JFET -- junction FET  
 
-![3. Junction tranzistor (JFET) - TINA a TINACloud](media/image35.png){width="4.71875in" height="1.7618055555555556in"}  
-![Obrázok, na ktorom je náčrt, kresba, obrysy, diagram](media/image36.png){width="3.464583333333333in" height="2.2916666666666665in"}  
-![JFET and its working - Electronics fun](media/image37.png){width="3.5729166666666665in" height="1.8798611111111112in"}  
+<img src='img/sch13.png'>  
 Princíp funkčnosti: medzi hradlom a kanálom je vytvorený PN priechod, ktorý sa polarizuje v závernom smere  
+<img src='img/schg4.png'>
 
-2. **MISFET**  
-![Obrázok, na ktorom je náčrt, kresba, obrysy, detské kresby](media/image38.png){width="3.36875in" height="2.46875in"}  
-![Obrázok, na ktorom je náčrt, kresba, obrysy, biely](media/image39.png){width="2.9895833333333335in" height="2.165277777777778in"}  
+#### 2. MISFET 
 MISFET -- metal insulator semiconductor FET  
+<img src='img/schg5.png'>
 
-3. **MOSFET**  
-![Obrázok, na ktorom je náčrt, kresba, obrysy, detské kresby](media/image40.png){width="2.7243055555555555in" height="2.004861111111111in"}  
-![Obrázok, na ktorom je náčrt, kresba, obrysy, kreslený obrázok](media/image41.png){width="2.7819444444444446in" height="1.90625in"}  
-[Zo zabudovaným kanálom:]{.underline}  
 
-![Obrázok, na ktorom je písmo, symbol, biely, grafika](media/image42.png){width="1.6458333333333333in" height="1.5in"}  
-![Obrázok, na ktorom je náčrt, kresba, obrysy, kreslený obrázok](media/image43.png){width="3.5342147856517934in" height="2.6222222222222222in"}  
-![Obrázok, na ktorom je náčrt, kresba, obrysy, diagram](media/image44.png){width="3.4166666666666665in" height="2.75625in"}  
-[S indukovaným kanálom:]{.underline}  
+#### 3. MOSFET  
+Zo zabudovaným kanálom: 
+<img src='img/schg6.png'>
+
+S indukovaným kanálom:  
+<img src='img/schg7.png' width=75%><img src='img/sch14.png' width=25%>
 
 ![Obrázok, na ktorom je písmo, symbol, biely, grafika](media/image45.png){width="1.4064457567804025in" height="1.5002088801399824in"}  
 
-4. **Porovnanie**  
-Bipolárne ↔ Unipolárne  
-prúdovo riadený(báza) ↔ riadené napätím(gate)  
-elektróny aj dierky(vedenie Q) ↔ buď elektróny alebo dierky(vedenie Q)  
-pomalší, viac sa zahrieva ↔ rýchlejší, menej zahrievanie  
-odolnejší proti statickej elektrine ↔ citlivý na statickú elektrinu  
+#### _Porovnanie_
+| Bipolárne                           |   <=>   | Unipolárne                              | 
+| ----------------------------------- | ------- | --------------------------------------- |
+| prúdovo riadený(báza)               |         | riadené napätím(gate)                   | 
+| elektróny aj dierky(vedenie Q)      |         | buď elektróny alebo dierky(vedenie Q)   | 
+| pomalší, viac sa zahrieva           |         | rýchlejší, menšie zahrievanie           | 
+| odolnejší proti statickej elektrine |         | citlivý na statickú elektrinu           | 
 
 # Číslicová technika
-
 ## Kombinačné a sekvenčné obvody, porovnanie
-
-1. **Kombinačné Logické obvody(KLO)**  
+### 1. Kombinačné Logické obvody(KLO)
 Sú také logické obvody, ktorých stav výstupov je jednoznačne daný stavom ich aktuálnych vstupov, teda v každom čase je možné priradiť akékoľvek kombinácie vstupov vždy tú istú príslušnú kombináciu výstupov.  
 
-[Rozdelenie KLO:]{.underline}  
-1. Jednoduché KLO -- hradlá  
+_ozdelenie KLO:_  
+   1. **Jednoduché KLO** - hradlá  
    Slúžia na realizáciu základných logických operácií → NOT, AND, NAND, OR, NOR, XOR, XNOR, AND OR INVERT  
-
-2. Zložité KLO -- aritmetické jednotky  
+   2. **Zložité KLO** - aritmetické jednotky  
    Slúžia na realizáciu zložitých aritmetických logických operácií → sčítačka, násobička, mutiplexor, demultiplexor, prepínač, komparátor, kóder, dekóder, generátor parity, aritmeticko-logická jednotka  
 
-2. **Sekvenčné Logické obvody(SLO)**  
+### 2. Sekvenčné Logické obvody(SLO)  
 Ich vstupné premenné sú určené nie len kombináciou hodnôt v danom okamihu ale aj minulými hodnotami niektorých premenných, z toho vyplýva, že SLO si musí pamätať hodnoty z predchádzajúceho stavu, čo znamená, že musí mať pamäť.  
 
 Základom SO sú klopné obvody, z ktorých sa konštrujú ďalej tzv. čítače, registre, pamäťové obvody  
@@ -491,37 +470,39 @@ Máme preklápacie obvody → RS, SL, D, JK, T
 Zložitejšie → Čítače, pamäťové registre  
 
 **Porovnanie:**  
-KLO ↔ SLO  
-Nemá pamäť ↔ Má pamäť  
-Bez synchronizácie ↔ Synchronizácia -- clock rate  
-Okamžitá odozva ↔ Oneskorená odozva  
-Výstup podľakt. hodnôt ↔ Výstup akt hodnoty + predchádzajúce
+| KLO                    |   <=>   | SLO                             | 
+| ---------------------- | ------- | ------------------------------- |
+| Nemá pamäť             |         | Má pamäť                        | 
+| Bez synchronizácie     |         | Synchronizácia -- clock rate    |
+| Okamžitá odozva        |         | Oneskorená odozva               |
+| Výstup podľakt. hodnôt |         |  Výstup akt hodnoty + predchádzajúce |
 
-## Základné(AND, OR, NOT) a odvodené(NAND, NOR) logické obvody
+## Logické obvody
 
-**Hradlo AND(logický súčin A*B)**  
+### Hradlo AND (logický súčin A*B)
 Jeho výstup je logickým súčinom všetkých jeho vstupov  
+![AND](img/log1.png)
 
-![Obrázok, na ktorom je číslo, text, písmo](media/image46.png){width="1.375in" height="1.1in"}  
-![Obrázok, na ktorom je štvorec, biely, dizajn, text](media/image47.png){width="1.34375in" height="1.1652777777777779in"}  
-
-**Hradlo OR(logický súčet A+B)**  
-![Obrázok, na ktorom je číslo, text, písmo](media/image48.png){width="1.4895833333333333in" height="1.1263888888888889in"}  
-![Obrázok, na ktorom je náčrt, štvorec, rad, dizajn](media/image49.png){width="1.375in" height="1.0270833333333333in"}  
+### Hradlo OR (logický súčet A+B)
 Jeho výstupom je súčet všetkých jeho vstupov  
+![OR](img/log2.png)
 
-**Hradlo NOT(negácia)**  
-![Obrázok, na ktorom je text, snímka obrazovky, písmo, číslo](media/image50.png){width="1.5798611111111112in" height="0.84375in"}  
-![Obrázok, na ktorom je dizajn](media/image51.png){width="1.4715277777777778in" height="1.1041666666666667in"}  
+### Hradlo NOT (negácia)
 Jeho výstup je negáciou jeho vstupu, nazýva sa logický invertor  
+![NOT](img/log3.png)
 
-![Obrázok, na ktorom je náčrt, symbol, dizajn](media/image52.png){width="1.38125in" height="1.1354166666666667in"}  
-**Hradlo NAND(negovaný logický súčin)**  
-![Obrázok, na ktorom je číslo, text, písmo](media/image53.png){width="1.4340277777777777in" height="1.0833333333333333in"}  
+### Hradlo NAND (negovaný logický súčin) 
+![NAND](img/log4.png)
 
-![Obrázok, na ktorom je číslo, text](media/image54.png){width="1.5795975503062116in" height="1.1875in"}  
-![Obrázok, na ktorom je náčrt, text, písmo, dizajn](media/image55.png){width="1.332638888888889in" height="0.90625in"}  
-**Hradlo NOR(negovaný logický súčet)**  
+### Hradlo NOR (negovaný logický súčet)
+![NOR](img/log5.png)
+
+---
+<div align='center'>
+--- TUNING END --- 
+</div>
+
+---
 
 ## Multiplexor a demultiplexor, komparátor, sčítačka
 
