@@ -159,6 +159,8 @@
 </div>
 
 ## Zdroje
+[OmniPDF](https://drive.google.com/file/d/1dVSAH3EYKL7w6aWXfYhLgdKJ187kPahp/view?usp=drivesdk)
+<br>
 Materialy: ```https://www.spsjm.sk``` ```https://spsjm.edupage.org```
 <br>
 [OneDrive](https://onedrive.live.com/?authkey=%21AHGlYhm09j37YJc&id=C88AD62C8E31C5AE%2159156&cid=C88AD62C8E31C5AE)
