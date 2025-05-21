@@ -78,6 +78,7 @@
 **D. Dušek**:                       [Kufor na sny]()  
 **A. Sládkovič**:                   [Detvan]()  
 **M. Figuli**:                      [Tri gaštanové kone]()  
+**P. O. Hviezdoslav**:              [Ežo Vloklínský]()  
 **M. Kukučín**:                     [Keď báčik z Chochoľova umrie]()  
 **M. Kukučín**:                     [Rysavá jalovica]()  
 **M. Kukučín**:                     [Neprebudený]()  
