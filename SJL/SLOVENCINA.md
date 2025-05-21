@@ -36,22 +36,21 @@
 
 <br><br>
 
-## Literatúra
+## Povinná Literatúra
+<!--### Obsah  
+[Starovek](./obdobia/starovek.md)  
+[Stredovek](./obdobia/stredovek.md)  
+[Renesancia a Humanizmus](./obdobia/hum-a-ren.md)  
+[Barok](./obdobia/barok.md)  
+[Klasicizmus](#klasicizmus)  
 
-### Obsah
-[Starovek](./obdobia/starovek.md)                   <br>
-[Stredovek](./obdobia/stredovek.md)                 <br>
-[Renesancia a Humanizmus](./obdobia/hum-a-ren.md)   <br>
-[Barok](./obdobia/barok.md)                         <br>
+[Romantizmus](#romantizmus)  
+[Realizmus](#realizmus)  
+[Moderna](#moderna)  
+[Medzivojnová](#medzivojnová)  
+[Povojnová](#povojnová-po-1945)  
 
-[Klasicizmus](#klasicizmus)                         <br>
-[Romantizmus](#romantizmus)                         <br>
-[Realizmus](#realizmus)                             <br>
-[Moderna](#moderna)                                 <br>
-[Medzivojnová](#medzivojnová)                       <br>
-[Povojnová](#povojnová-po-1945)                     <br>
-
-## Povinné diela
+## Povinné diela-->
 ### Poézia
 **H. Gavlovič** _(výber z tvorby)_: [Valaská škola – mravúv stodola]()  
 **J. Kollár**:                      [Předzpěv zo Slávy dcery]()  
@@ -63,52 +62,45 @@
 **R. Dilong**:  _(výber z tvorby)_  
 **M. Válek**    _(výber z tvorby)_: [Dotyky]()  
 **M. Rúfus**    _(výber z tvorby)_: [Až dozrieme]()  
-**J. Urban**    _(výber z tvorby)_: [Snežienky & biblie]() 
+**J. Urban**    _(výber z tvorby)_: [Snežienky & biblie]()  
+**J. Kráľ**:                        [Zakliata panna vo Váhu a divný Janko]()  
+**P. O. Hviezdoslav**:              [Zuzanka Hraškovie]()  
+**P. O. Hviezdoslav**:              [Krvavé sonety]()  
 
 ### Próza
 **J. G. Tajovský**:                 [Maco Mlieč]()  
-**M. Kukučín**:                     [Keď báčik z Chochoľova umrie]()  
 **B.S. Timrava**:                   [Ťapákovci]()  
 **M. Urban**:                       [Živý bič]()  
-**J. Cíger**                        [Hronský: Jozef Mak]()  
+**J. Cíger Hronský**:               [Jozef Mak]()  
 **D. Chrobák**:                     [Drak sa vracia]()  
 **A. Bednár**:                      [Kolíska]()  
 **L. Mňačko**:                      [Ako chutí moc]()  
 **D. Dušek**:                       [Kufor na sny]()  
+**A. Sládkovič**:                   [Detvan]()  
+**M. Figuli**:                      [Tri gaštanové kone]()  
+**M. Kukučín**:                     [Keď báčik z Chochoľova umrie]()  
+**M. Kukučín**:                     [Rysavá jalovica]()  
+**M. Kukučín**:                     [Neprebudený]()  
+**F. Švantner**:                    [Malka]()  
+**J. Hollý**:                       [Svatopluk]()  
 
-### Dráma
-**J. Palárik**:                     [Zmierenie alebo Dobrodružstvo pri obžinkoch]()  
-**J. G. Tajovský**:                 [Statky-zmätky]()  
-**I. Bukovčan**:                    [Kým kohút nezaspieva]()  
-**M. Lasica** – **J. Satinský**:    [Soirèe]()  
-
-#### Inojazyčná literatúra
-**Sofokles**:                       [Antigona]()  
-**W. Shakespeare**:                 [Hamlet]()  
+**R. Rolland**:                     [Peter a Lucia]()  
+**E. Hemingway**:                   [Starec a more]()  
+**A. Saint-Exupery**:               [Malý princ]()  
+**F. Kafka**:                       [Premena]()  
 **Molière**:                        [Lakomec]()  
 **E. M. Remarque**:                 [Na západe nič nové]()  
 **A. S. Puškin**:                   [Kapitánova dcéra]()  
 **J. D. Salinger**:                 [Kto chytá v žite]()  
 
-## Odporúčané literárne diela
-
-### Slovenská literatúra
-**J. Kráľ**:                        [Zakliata panna vo Váhu a divný Janko]()  
-**M. Figuli**:                      [Tri gaštanové kone]()  
-**M. Kukučín**:                     [Rysavá jalovica]()  
-**M. Kukučín**:                     [Neprebudený]()  
+### Dráma
+**J. Palárik**:                     [Zmierenie alebo Dobrodružstvo pri obžinkoch]()  
+**J. G. Tajovský**:                 [Statky-zmätky]()  
 **J. Barč-Ivan**:                   [Matka]()  
+**I. Bukovčan**:                    [Kým kohút nezaspieva]()  
+**M. Lasica** – **J. Satinský**:    [Soirèe]()  
 **I. Stodola**:                     [Bačova žena]()  
-**F. Švantner**:                    [Malka]()  
-**P. O. Hviezdoslav**:              [Krvavé sonety]()  
-**J. Hollý**:                       [Svatopluk]()  
-**J. Botto**:                       [Margita a Besná]()  
-**P. O. Hviezdoslav**:              [Zuzanka Hraškovie]()  
-**A. Sládkovič**:                   [Detvan]()  
 
-### Inojazyčná literatúra
-**R. Rolland**:                     [Peter a Lucia]()  
-**E. Hemingway**:                   [Starec a more]()  
-**A. Saint-Exupery**:               [Malý princ]()  
-**F. Kafka**:                       [Premena]()  
 **S. Beckett**:                     [Čakanie na Godota]()  
+**Sofokles**:                       [Antigona]()  
+**W. Shakespeare**:                 [Hamlet]()  
