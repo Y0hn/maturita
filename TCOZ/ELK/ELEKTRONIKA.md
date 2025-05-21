@@ -290,7 +290,7 @@ $\omega$(omega) - uhlová rýchlosť → Ѡ = 2 * π * f
 $t$ - čas  
 
 ### 2. L (Cievka)
-- $u_L$ a i sú posunuté o 90º, u~L~ predbieha prúd(cievka posúva napätie o 90º dopredu)  
+- $u_L$ a i sú posunuté o 90º, $u_L$ predbieha prúd(cievka posúva napätie o 90º dopredu)  
 - napätie je Um vtedy, keď prúd je 0  
 - $X_L$ je frekvenčne závislý, so stúpajúcou frekvenciou stúpa odpor  
 
@@ -303,7 +303,7 @@ $X_L$ - zdanlivý odpor cievky v striedavom obvode → indukčná reaktancia
 
 ### 3. C (Kapacita)
 - u a i sú posunuté o 90°, $i_C$ predbieha napätie (kondenzátor posúva prúd o 90° dopredu)  
-- $XC$ je frekvenčne závislý, so stúpajúcou frekvenciou klesá odpor  
+- $X_C$ je frekvenčne závislý, so stúpajúcou frekvenciou klesá odpor  
 
 $$u = U_{m} \cdot {sin}\omega \cdot t$$  
 $$i = I_{m} \cdot \sin{(\omega} \cdot t + \ 90{^\circ})$$  
