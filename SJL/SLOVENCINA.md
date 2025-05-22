@@ -5,6 +5,8 @@
     <div align="right">
         <a href="./pisomne-sloh.md">Sloh</a>
         |
+        <a href="./povinne-diela.md">Diela a Autori</a>
+        |
         <a href="./timeline.md">Časová Os</a>
         |
         <a href="./ustne-otazky.md">Otázky</a>

@@ -5,6 +5,8 @@
         <a href="./SLOVENCINA.md">SJL</a>
     </div>
     <div align="right">
+        <a href="./povinne-diela.md">Prehľad Diel a Autorov</a>
+        |
         <a href="./ustne-otazky.md">Otázky</a>
         |
         <a href="./ustne-okruhy.org.md">Okruhy</a>

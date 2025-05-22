@@ -4,6 +4,8 @@
     <a href="./SLOVENCINA.md">SJL</a>
 </div>
 <div align="right">
+    <a href="./povinne-diela.md">Prehľad Diel a Autorov</a>
+    |
     <a href="./ustne-otazky.md">Prehľad otázok</a>
     |
     <a href="https://drive.google.com/drive/u/1/folders/1hWhZNvgWC-8cb7jK5zRorX9WfCzyq_WF">Materály</a>
