@@ -62,7 +62,7 @@
 **R. Dilong**:  _(výber z tvorby)_  
 **M. Válek**    _(výber z tvorby)_: [Dotyky]()  
 **M. Rúfus**    _(výber z tvorby)_: [Až dozrieme]()  
-**J. Urban**    _(výber z tvorby)_: [Snežienky & biblie]()  
+**J. Urban**    _(výber z tvorby)_: [Voda čo ma drží nad vodou]()  
 **J. Kráľ**:                        [Zakliata panna vo Váhu a divný Janko]()  
 **P. O. Hviezdoslav**:              [Zuzanka Hraškovie]()  
 **P. O. Hviezdoslav**:              [Krvavé sonety]()  
