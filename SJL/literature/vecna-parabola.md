@@ -1,0 +1,3 @@
+# Večná parabola
+
+*Obsah pripravujeme.*

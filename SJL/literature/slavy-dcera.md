@@ -1,0 +1,3 @@
+# Slávy dcéra
+
+*Obsah pripravujeme.*

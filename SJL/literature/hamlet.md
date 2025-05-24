@@ -1,0 +1,3 @@
+# Hamlet
+
+*Obsah pripravujeme.*

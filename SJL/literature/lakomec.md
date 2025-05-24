@@ -1,0 +1,3 @@
+# Lakomec
+
+*Obsah pripravujeme.*

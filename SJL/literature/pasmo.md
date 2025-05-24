@@ -1,0 +1,3 @@
+# Pásmo
+
+*Obsah pripravujeme.*

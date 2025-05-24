@@ -34,10 +34,10 @@
 ---
 ## Staroslovienska literatúra
 - **Sv. Konštantín:**  
-  - Proglas (Predspev pre Evanjelia)
-    - prvé dielo v Staroslovienčine
+  - Proglas (Predspev pre Evanjelia)  
+    - prvé dielo v Staroslovienčine  
 - **Moravsko-panónske legendy:**  
-  - o Cirilovi a Metodovy
+  - o Cirilovi a Metodovy  
 ---
 ## Renesancia / Humanizmus
 ### Talianska

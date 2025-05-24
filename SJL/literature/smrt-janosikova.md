@@ -1,0 +1,3 @@
+# Smrť Jánošíkova
+
+*Obsah pripravujeme.*
