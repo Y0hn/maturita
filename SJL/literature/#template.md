@@ -9,9 +9,9 @@
         |
         <a href="https://drive.google.com/drive/u/1/folders/1hWhZNvgWC-8cb7jK5zRorX9WfCzyq_WF">Materály</a>
     </div>
-<h1>notitia hungariae novae historico-geographica</h1>
+<h1>TITLE</h1>
     <div align="right">
-        <h3>Matej Bel</h3>
+        <h3>AUTOR</h3>
     </div>
 </div>
 
