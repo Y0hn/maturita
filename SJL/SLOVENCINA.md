@@ -23,22 +23,31 @@
 ## Jazyk
 
 ### Jazykové štýly
-<a href="./gramatika/styly/hovorovy.md">[H]</a> Hovorový <br>
-<a href="./gramatika/styly/administrativny.md">[A]</a> Administratívny <br>
-<a href="./gramatika/styly/recnicky.md">[R]</a> Rečnícky <br>
-<a href="./gramatika/styly/publicisticky.md">[P]</a> Publicistický <br>
-<a href="./gramatika/styly/umelecky.md">[U]</a> Umelecký <br>
-<a href="./gramatika/styly/naucny.md">[N]</a> Náučný <br>
-
+<!--<a href="./gramatika/styly/hovorovy.md">-->
+__[H]__ <!--</a>--> ovorový
+<!--<a href="./gramatika/styly/administrativny.md">-->
+__[A]__ <!--</a>--> dministratívny
+<!--<a href="./gramatika/styly/recnicky.md">-->
+__[R]__ <!--</a>--> ečnícky
+<!--<a href="./gramatika/styly/publicisticky.md">-->
+__[P]__ <!--</a>--> ublicistický
+<!--<a href="./gramatika/styly/umelecky.md">-->
+__[U]__ <!--</a>--> melecký
+<!--<a href="./gramatika/styly/naucny.md">-->
+__[N]__ <!--</a>--> áučný
 ### Slohotvorné Postupy
-<a href="./gramatika/postupy/informacny.md">[ I ]</a> Informačný <br>
-<a href="./gramatika/postupy/vykladovy.md">[V]</a> Výkladový <br>
-<a href="./gramatika/postupy/opisny.md">[O]</a> Opisný <br>
-<a href="./gramatika/postupy/rozpravaci.md">[R]</a> Rozprávací <br>
+<!--<a href="./gramatika/postupy/informacny.md">-->
+__[ I ]__ <!-- ]</a>--> nformačný
+<!--<a href="./gramatika/postupy/vykladovy.md">-->
+__[V]__ <!--</a>--> ýkladový
+<!--<a href="./gramatika/postupy/opisny.md">-->
+__[O]__ <!--</a>--> pisný
+<!--<a href="./gramatika/postupy/rozpravaci.md">-->
+__[R]__ <!--</a>--> ozprávací
 
-<br><br>
+<br>
+---
 
-## Povinná Literatúra
 <!--### Obsah  
 [Starovek](./obdobia/starovek.md)  
 [Stredovek](./obdobia/stredovek.md)  
@@ -51,59 +60,139 @@
 [Moderna](#moderna)  
 [Medzivojnová](#medzivojnová)  
 [Povojnová](#povojnová-po-1945)  
+-->
+## Dôležité Diela
+### Starovek
+*(NEZNÁMY)* - [Epos o Gilgamešovi]()  
+**Homér** - [Ilias]()  
+**Homér** - [Odysea]()  
+**Sofokles** - [Antigona]()  
+**Sofokles** - [Oidipus]()  
+**Ovídius** - [Metamorfózy]()  
 
-## Povinné diela-->
-### Poézia
-**H. Gavlovič** _(výber z tvorby)_: [Valaská škola – mravúv stodola]()  
-**J. Kollár**:                      [Předzpěv zo Slávy dcery]()  
-**S. Chalupka**:                    [Mor ho!]()  
-**A. Sládkovič**:                   [Marína]()  
-**J. Botto**:                       [Smrť Jánošíkova]()  
-**I. Krasko**   _(výber z tvorby)_: [Nox et solitudo]()  
-**J. Smrek**    _(výber z tvorby)_: [Cválajúce dni]()  
-**R. Dilong**:  _(výber z tvorby)_  
-**M. Válek**    _(výber z tvorby)_: [Dotyky]()  
-**M. Rúfus**    _(výber z tvorby)_: [Až dozrieme]()  
-**J. Urban**    _(výber z tvorby)_: [Voda čo ma drží nad vodou]()  
-**J. Kráľ**:                        [Zakliata panna vo Váhu a divný Janko]()  
-**P. O. Hviezdoslav**:              [Zuzanka Hraškovie]()  
-**P. O. Hviezdoslav**:              [Krvavé sonety]()  
+### Stredovek
+**Konštantín** - [Proglas]()  
+**Kliment** - [Moravsko-panónske legendy]()  
 
-### Próza
-**J. G. Tajovský**:                 [Maco Mlieč]()  
-**B.S. Timrava**:                   [Ťapákovci]()  
-**M. Urban**:                       [Živý bič]()  
-**J. Cíger Hronský**:               [Jozef Mak]()  
-**D. Chrobák**:                     [Drak sa vracia]()  
-**A. Bednár**:                      [Kolíska]()  
-**L. Mňačko**:                      [Ako chutí moc]()  
-**D. Dušek**:                       [Kufor na sny]()  
-**A. Sládkovič**:                   [Detvan]()  
-**M. Figuli**:                      [Tri gaštanové kone]()  
-**P. O. Hviezdoslav**:              [Ežo Vloklínský]()  
-**M. Kukučín**:                     [Keď báčik z Chochoľova umrie]()  
-**M. Kukučín**:                     [Rysavá jalovica]()  
-**M. Kukučín**:                     [Neprebudený]()  
-**F. Švantner**:                    [Malka]()  
-**J. Hollý**:                       [Svatopluk]()  
+### Renesancia a Humanizmus
+**F. Petrarca** - [Sonety pre Lauru]()  
+**D. Aligieri** - [Božská komédia]()  
+**G. Boccaccio** - [Dekameron]()  
+**M. de Cervantes S.** - [Dômyselný rytier Don Quijote de la Mancha]()  
+**W. Shakespeare** - [Hamlet]()  
+**W. Shakespeare** - [Romeo a Júlia]()  
 
-**R. Rolland**:                     [Peter a Lucia]()  
-**E. Hemingway**:                   [Starec a more]()  
-**A. Saint-Exupery**:               [Malý princ]()  
-**F. Kafka**:                       [Premena]()  
-**Molière**:                        [Lakomec]()  
-**E. M. Remarque**:                 [Na západe nič nové]()  
-**A. S. Puškin**:                   [Kapitánova dcéra]()  
-**J. D. Salinger**:                 [Kto chytá v žite]()  
+### Barok
+**M. Bel** - [Notitia]()  
+**H. Gavlovič** - [Valašká škola mravúv stodola]()  
 
-### Dráma
-**J. Palárik**:                     [Zmierenie alebo Dobrodružstvo pri obžinkoch]()  
-**J. G. Tajovský**:                 [Statky-zmätky]()  
-**J. Barč-Ivan**:                   [Matka]()  
-**I. Bukovčan**:                    [Kým kohút nezaspieva]()  
-**M. Lasica** – **J. Satinský**:    [Soirèe]()  
-**I. Stodola**:                     [Bačova žena]()  
+### Klasicizmus
+**P. Corneille** - [Cid]()  
+**Moliére** - [Lakomec]()  
 
-**S. Beckett**:                     [Čakanie na Godota]()  
-**Sofokles**:                       [Antigona]()  
-**W. Shakespeare**:                 [Hamlet]()  
+**J. Kollár** - [Slávy dcéra]()  
+**J. Hollý** - [Svätopluk]()  
+**J. Hollý** - [Cyrilo-Metodiáda]()
+**J. Chalupka** - [Kocúrkovo]()
+**J. Palárik** - [Zmierenie pri obžinkoch]()
+
+### Romantizmus
+**V. Hugo** - [Chrám Matky Božej v Paríži]()  
+**A. S. Puškin** - [Kapitánova dcéra]()  
+**J. W. Goethe** - [Utrpenie mladého Werthera]()  
+**J. W. Goethe** - [Faust]()  
+**F. Schiller** - [Viliam Tell]()  
+
+#### Štúrovci
+**S. Chalupka** - [Mor ho!]()  
+**J. Kráľ** - [Zakliata panna vo Váhu a divný Janko]()  
+**J. Botto** - [Smrť Jánošíkova]()  
+**A. Sládkovič** - [Marína]()  
+**A. Sládkovič** - [Detvan]()  
+**J. Kalinčiak** - [Reštaurácia]()  
+
+### Realizmus
+**H. de Balzac** - [Otec Goriot]()  
+**F. M. Dostojevskij** - [Zločin a trest]()  
+**N. V. Gogoľ** - [Mŕtve duše]()  
+**N. V. Gogoľ** - [Revízor]()  
+**L. N. Tolstoj** - [Anna Kareninová]()  
+**L. N. Tolstoj** - [Vojna a Mier]()  
+**A. P. Čechov** - [Chameleón]()  
+
+#### 1. vlna
+**P. O. Hviezdoslav** - [Zuzanka Hraškovie]()  
+**P. O. Hviezdoslav** - [Krvavé sonety]()
+**M. Kukučín** - [Keď báčik z Chochoľova umrie]()  
+**M. Kukučín** - [Rysavá jalovica]()  
+**M. Kukučín** - [Neprebudený]()  
+
+#### 2. vlna
+**J. G. Tajovský** - [Statky-Zmätky]()  
+**J. G. Tajovský** - [Maco Mlieč]()  
+**J. G. Tajovský** - [Mamka Pôstková]()   
+**B. S. Timrava** - [Ťapákovci]()  
+**S. H. Vajanský** - [Suchá Ratolesť]()  
+
+### Moderna
+**Ch. Baudelaire** - [Kvety zla]()  
+**Ch. Baudelaire** - [Mrcina]()  
+**J. N. A. Rimbaud** - [Pocit]()  
+**G. Appolinaire** - [Pásmo]()  
+
+**I. Krasko** - [Nox et solitudo]()  
+**I. Krasko** - [Topole]()  
+
+### Medzivojnová
+**E. M. Remarque** - [Na západe nič nové]()  
+**R. Rolland** - [Peter a Lucia]()  
+**E. Hemingway** - [Zbohom zbraniam]()  
+
+**B. S. Timrava** - [Hrdinovia]()  
+**M. Urban** - [Živý bič]()  
+**J. C. Hronský** - [Jozef Mak]()  
+**P. O. Hviezdoslav** - [Krvavé sonety]()  
+**E. B. Lukáč** - [Paradoxon]()  
+**E. B. Lukáč** - [Večná parabola]()  
+**E. B. Lukáč** - [Nenávidíme? Minujeme?]()  
+**L. Novomeský** - [Rombiod]()  
+**L. Novomeský** - [Svätý za dedinou]()  
+**R. Fábry** - [Uťaté ruky]()  
+**R. Fábry** - [Pokazený písací stroj]()  
+
+**J. Barč-Ivan** - [Matka]()  
+**I. Stodola** - [Jožko púčik]()  
+**I. Stodola** - [Bačova žena]()  
+
+#### Nadrealizmus
+**D. Chrobák** - [Drak sa vracia]()  
+**M. Figuli** - [Tri gaštanové kone]()  
+**F. Švantner** - [Malka]()  
+**F. Švantner** - [Nevesta hôľ]()  
+
+### Povojnová
+**J. P. Sarte** - [Múr]()  
+**S. Beckett** - [Čakanie na Godota]()  
+**J. D. Salinger** - [Kto chytá v žite]()  
+**J. Heller** - [Hlava XXII]()  
+**N. Mailer** - [Nahí a mŕtvi]()  
+**A. I. Solženicyn** - [Jeden deň Ivana Denisoviča]()  
+**A. I. Solženicyn** - [Súostrovie Gulag]()  
+
+
+**L. Mňačko** - [Ako chutí moc]()  
+**L. Mňačko** - [Smrť sa volá Elgenchen]()  
+**A. Bednár** - [Kolíska]()  
+**R. Jašík** - [Námestie sv. Alžbety]()  
+**P. Jaroš** - [Tisícročná včela]()  
+
+
+**M. Válek** - [Zabíjanie Králikov]()  
+**M. Válek** - [Dotyky]()  
+**M. Rúfus** - [Abeceda]()  
+**M. Rúfus** - [Zvony]()  
+**J. Urban** - [Voda čo ma drží nad vodou]()  
+
+**I. Bukovčan** - [Kým kohút nezaspieva]()  
+**M. Lasica** a **J. Satinský** - [Soirèe]()  
+**S. Štepka** - [Jááánošííík]()  

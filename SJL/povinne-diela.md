@@ -42,7 +42,7 @@
 ## Renesancia / Humanizmus
 ### Talianska
 - **Francesco Petrarca:**  
-  - Sonety pre Lauru (Zbierka 100 Sonontov)
+  - Sonety pre Lauru (Zbierka 100+ Sonontov)
 - **Dante Alighieri:**  
   - Božská komédia (Dráma) (Peklo, Očistec, Raj)
 - **Giovanni Boccaccio:**  
@@ -177,7 +177,7 @@
   - Jozef Mak (expresionistický román)
     - človek milión
 ### Slovenská poézia
-- **P.O. Hviezdoslav:**  
+- **P. O. Hviezdoslav:**  
   - Krvavé sonety (zbierka 32 sonetov)
 - **Ján Smrek:**  
   - Cválajúce dni (Báseň)
@@ -197,7 +197,7 @@
 - **Dobroslav Chrobák:**  
   - Drak sa vracia (Novela)
 - **Margita Figuli:**  
-  - Tri gaštanové kone (ľúbostná lyrizovaná báseň)
+  - Tri gaštanové kone (Novela)
 - **František Švantner:**  
   - Malka (Novela)
   - Nevesta hôľ (Román)
