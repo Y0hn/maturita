@@ -15,9 +15,17 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Stredovek_ - Staroslovienska literatúra  
+__Forma__:  
+- **Legenda** - životopis svätcov
+
+### Dej
+__Postavy__:  
+- *Konštantín (Cyril)*  
+- Metod  
+- Rastislav, Svätopluk
+
+Dve legendy opisujú život a dielo Cyrila a Metoda, ich príchod na Veľkú Moravu, šírenie kresťanstva, vytvorenie hlaholiky a preklad bohoslužobných kníh do staroslovienčiny.
 
 ---
 <div align="center">

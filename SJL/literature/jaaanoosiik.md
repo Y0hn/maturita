@@ -15,9 +15,16 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Súčasná slovenská literatúra_  
+__Forma__:  
+- **Divadelná hra** - satirická komédia
+
+### Dej
+__Postavy__:  
+- *Jánošík* – legendárny zbojník  
+- zbojníci, zemania, ľud
+
+Parodická hra Radošinského naivného divadla o legendárnom zbojníkovi. Autor využíva humor, iróniu a nadsázku na kritiku spoločnosti a slovenských mýtov.
 
 ---
 <div align="center">

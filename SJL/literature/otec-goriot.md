@@ -15,9 +15,17 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Realizmus_ - Francúzska literatúra  
+__Forma__:  
+- **Román** - spoločenský román
+
+### Dej
+__Postavy__:  
+- *Otec Goriot* – bývalý výrobca rezancov  
+- Rastignac – mladý študent  
+- Vautrin, Delphine, Anastasie
+
+Otec Goriot obetuje všetko pre svoje dcéry, ktoré ho však zneužívajú. Rastignac sa snaží presadiť v parížskej spoločnosti. Dielo ukazuje skazené vzťahy a spoločenské pomery v Paríži.
 
 ---
 <div align="center">

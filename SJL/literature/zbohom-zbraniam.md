@@ -15,9 +15,16 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _20. storočie_ - Americká literatúra  
+__Forma__:  
+- **Román** - vojnový a ľúbostný príbeh
+
+### Dej
+__Postavy__:  
+- *Frederic Henry* – americký dobrovoľník v talianskej armáde  
+- Catherine Barkley – zdravotná sestra
+
+Príbeh lásky Frederica a Catherine počas 1. svetovej vojny. Ich šťastie je zničené vojnou a tragédiou – Catherine zomiera pri pôrode.
 
 ---
 <div align="center">

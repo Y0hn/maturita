@@ -15,9 +15,15 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Modernizmus_ - Slovenská literatúra 20. stor.  
+__Forma__:  
+- **Básnická zbierka** - moderná poézia
+
+### Dej
+__Postavy__:  
+- *lyrický subjekt* – autorove myšlienky
+
+Zbierka reflektuje spoločenské a existenciálne otázky, hľadanie zmyslu života, medziľudské vzťahy. Válek využíva experimentálnu formu a jazyk.
 
 ---
 <div align="center">

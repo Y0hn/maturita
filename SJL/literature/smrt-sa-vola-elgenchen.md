@@ -11,13 +11,21 @@
     </div>
 <h1>Smrť sa volá Elgenchen</h1>
     <div align="right">
-        <h3>Ladislav Mňačo</h3>
+        <h3>Ladislav Mňačko</h3>
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _20. storočie_ - Slovenská literatúra  
+__Forma__:  
+- **Román** - vojnový román
+
+### Dej
+__Postavy__:  
+- *Pavel* – partizán, rozprávač  
+- Engelchen – nemecký dôstojník  
+- partizáni, civilisti
+
+Román zachytáva osudy partizánov a civilistov počas SNP. Pavel leží ranený a spomína na udalosti, ktoré viedli k tragédii v dedine. Dielo analyzuje vinu, zodpovednosť a morálne dilemy vojny.
 
 ---
 <div align="center">

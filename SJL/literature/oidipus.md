@@ -15,9 +15,18 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Starovek_ - Antická - Grécka  
+__Forma__:  
+- **Tragédia** - dráma s tragickým osudom
+
+### Dej
+__Postavy__:  
+- *Oidipus* – kráľ Téby  
+- Iokasté – jeho matka a manželka  
+- Laios – jeho otec  
+- Kreón, Teiresias
+
+Oidipus rieši záhadu moru v Tébach a zisťuje, že sám je vinný – nevedomky zabil otca a oženil sa s matkou. Po odhalení pravdy si vypichne oči, Iokasté sa obesí.
 
 ---
 <div align="center">

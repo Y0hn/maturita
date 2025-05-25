@@ -15,9 +15,18 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Realizmus_ - Ruská literatúra  
+__Forma__:  
+- **Román** - historicko-filozofický epos
+
+### Dej
+__Postavy__:  
+- *Pierre Bezuchov*  
+- Andrej Bolkonskij  
+- Nataša Rostovová  
+- Napoleon, Kutuzov
+
+Román zachytáva osudy ruských šľachtických rodín počas napoleonských vojen. Autor analyzuje vojnu, mier, lásku, zmysel života a dejinné zákonitosti.
 
 ---
 <div align="center">

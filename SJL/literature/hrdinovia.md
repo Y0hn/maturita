@@ -15,9 +15,16 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Realizmus_ - Slovenská literatúra  
+__Forma__:  
+- **Novela** - kratší epický útvar
+
+### Dej
+__Postavy__:  
+- *Anča* – hlavná postava, mladé dievča  
+- Ondrej, Jano, ďalší dedinčania
+
+Novela zobrazuje život na dedine počas 1. svetovej vojny. Hrdinovia sú obyčajní ľudia, ktorí musia čeliť vojne, biede a osobným tragédiám. Dielo kritizuje vojnu a falošné hrdinstvo.
 
 ---
 <div align="center">

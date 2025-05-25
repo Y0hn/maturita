@@ -15,9 +15,17 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Klassicizmus_ - Slovenská literatúra  
+__Forma__:  
+- **Epos** - rozsiahla epická báseň
+
+### Dej
+__Postavy__:  
+- *Cyril a Metod* – slovanskí vierozvestci  
+- Rastislav – knieža  
+- Svätopluk – vojvodca
+
+Dielo oslavuje príchod Cyrila a Metoda na Veľkú Moravu, ich šírenie kresťanstva a písma. Zobrazuje ich zápas s odporcami, podporu kniežaťa Rastislava a význam ich misie pre slovenský národ.
 
 ---
 <div align="center">

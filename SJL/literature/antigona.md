@@ -15,9 +15,19 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Starovek_ - Antická - Grécka  
+__Forma__:  
+- **Tragédia** - vážna dráma s tragickým koncom
+
+### Dej
+__Postavy__:  
+- *Antigona* – dcéra Oidipa, odvážna a zásadová  
+- Kreón – kráľ, Antigonin strýko  
+- Isména – Antigonina sestra  
+- Haimón – Kreónov syn, Antigonin snúbenec  
+- Teiresias – veštec
+
+Po bratovražednom boji o trón v Tébach Kreón zakáže pochovať Polyneika. Antigona napriek zákazu brata pochová, za čo ju Kreón odsúdi na smrť. Haimón sa pokúsi Antigonu zachrániť, no neúspešne. Antigona sa obesí, Haimón spácha samovraždu a Kreón zostáva zlomený.
 
 ---
 <div align="center">

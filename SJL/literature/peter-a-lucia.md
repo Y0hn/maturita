@@ -15,9 +15,16 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _20. storočie_ - Francúzska literatúra  
+__Forma__:  
+- **Novela** - tragický ľúbostný príbeh
+
+### Dej
+__Postavy__:  
+- *Peter* – mladý študent  
+- Lucia – sirota, maliarka
+
+Príbeh lásky dvoch mladých ľudí v Paríži počas 1. svetovej vojny. Ich šťastie je krátke – zomierajú pri bombardovaní kostola na Veľký piatok.
 
 ---
 <div align="center">

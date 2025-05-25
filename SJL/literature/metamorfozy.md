@@ -15,9 +15,15 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Starovek_ - Rímska literatúra  
+__Forma__:  
+- **Epos** - súbor bájí v hexametri
+
+### Dej
+__Postavy__:  
+- *bohovia, hrdinovia, ľudia* – rôzne postavy z gréckych a rímskych mýtov
+
+Dielo obsahuje viac ako 250 príbehov premeny (metamorfózy) – ľudí na zvieratá, rastliny, kamene. Príbehy sú prepojené motívom zmeny a zasahovania bohov do ľudských osudov.
 
 ---
 <div align="center">

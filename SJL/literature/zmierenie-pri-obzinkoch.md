@@ -15,9 +15,16 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Obrodenie_ - Slovenská literatúra  
+__Forma__:  
+- **Veselohra** - komédia s národným motívom
+
+### Dej
+__Postavy__:  
+- *Barbora* – gazdiná  
+- Ondrej, Anička, Ján, ďalší dedinčania
+
+Komédia o zmierení dvoch znepriatelených rodín počas žatvy. Dielo propaguje národné povedomie, zmierlivosť a lásku.
 
 ---
 <div align="center">

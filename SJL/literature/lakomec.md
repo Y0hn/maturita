@@ -15,9 +15,17 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Klasicizmus_ - Francúzska literatúra  
+__Forma__:  
+- **Komédia** - satirická hra
+
+### Dej
+__Postavy__:  
+- *Harpagon* – lakomý otec  
+- Kleant, Eliška – jeho deti  
+- Valér, Mariana, Frosina
+
+Harpagon je posadnutý peniazmi a bráni deťom v láske. Komické situácie vyplývajú z jeho lakomstva. Nakoniec sa všetko vyrieši a deti sa môžu zosobášiť so svojimi milými.
 
 ---
 <div align="center">

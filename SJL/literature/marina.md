@@ -15,9 +15,16 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Romantizmus_ - Slovenská literatúra  
+__Forma__:  
+- **Lyricko-epická báseň** - najdlhšia ľúbostná báseň
+
+### Dej
+__Postavy__:  
+- *lyrický subjekt* – autor  
+- Marína – jeho láska
+
+Báseň je vyznaním lásky k Maríne, ale aj k slovenskému národu. Autor rozvíja motívy lásky, krásy, túžby po ideáli a vlasti.
 
 ---
 <div align="center">

@@ -15,9 +15,16 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _20. storočie_ - Ruská literatúra  
+__Forma__:  
+- **Novela** - realistický opis
+
+### Dej
+__Postavy__:  
+- *Ivan Denisovič Šuchov* – väzeň v gulagu  
+- ďalší väzni, dozorci
+
+Príbeh jedného dňa v sovietskom pracovnom tábore. Autor detailne opisuje každodenný boj o prežitie, poníženie, solidaritu i drobné radosti v neľudských podmienkach.
 
 ---
 <div align="center">

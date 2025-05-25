@@ -15,9 +15,15 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Súčasná slovenská literatúra_  
+__Forma__:  
+- **Divadelná hra** - kabaret, satira
+
+### Dej
+__Postavy__:  
+- *Lasica a Satinský* – autori a hlavné postavy
+
+Kabaretné pásmo plné humoru, irónie a satiry na spoločnosť, medziľudské vzťahy, politiku a každodenný život. Typický je inteligentný humor a improvizácia.
 
 ---
 <div align="center">

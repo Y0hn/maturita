@@ -9,15 +9,18 @@
         |
         <a href="https://drive.google.com/drive/u/1/folders/1hWhZNvgWC-8cb7jK5zRorX9WfCzyq_WF">Materály</a>
     </div>
-<h1>TITLE</h1>
+<h1>Názov</h1>
     <div align="right">
-        <h3>AUTOR</h3>
+        <h3>Autor</h3>
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _nazov literarneho obdobia_ - Národnost  
+__Forma__:  
+- **nazov formy** - stručný popis
+
+### Dej
+__Postavy__:  
 
 ---
 <div align="center">

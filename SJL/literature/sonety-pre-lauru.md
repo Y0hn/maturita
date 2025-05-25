@@ -15,9 +15,16 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Renesancia_ - Talianska literatúra  
+__Forma__:  
+- **Sonetový veniec** - zbierka ľúbostných sonetov
+
+### Dej
+__Postavy__:  
+- *lyrický subjekt* – autor  
+- Laura – jeho múza
+
+Zbierka obsahuje sonety venované Laure, ideálu krásy a cnosti. Vyjadruje neopätovanú lásku, túžbu, smútok i obdiv k Laure.
 
 ---
 <div align="center">

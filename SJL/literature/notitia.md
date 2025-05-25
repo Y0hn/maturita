@@ -15,9 +15,15 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Barok_ - Slovenská a uhorská literatúra  
+__Forma__:  
+- **Vedecké dielo** - historicko-geografický opis
+
+### Dej
+__Postavy__:  
+- *Matej Bel* – autor
+
+Rozsiahle dielo v latinčine, ktoré opisuje geografiu, históriu, hospodárstvo a kultúru uhorských stolíc (žúp). Je významným prameňom poznania o Uhorsku 18. storočia.
 
 ---
 <div align="center">
