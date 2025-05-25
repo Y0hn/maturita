@@ -15,9 +15,16 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Realizmus_ - Slovenská literatúra  
+__Forma__:  
+- **Poviedka** - humorná próza
+
+### Dej
+__Postavy__:  
+- *Ondrej Tráva* – hlavná postava  
+- jeho žena, susedia, dedinčania
+
+Príbeh o Ondrejovi, ktorý sa po zabíjačke opije a stratí rysavú jalovicu. Poviedka s humorom zobrazuje dedinský život, ľudské slabosti a vzťahy medzi ľuďmi.
 
 ---
 <div align="center">

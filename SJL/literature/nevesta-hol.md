@@ -15,9 +15,16 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Slovenská próza 20. storočia_  
+__Forma__:  
+- **Román** - lyrizovaná próza
+
+### Dej
+__Postavy__:  
+- *Marek* – hlavná postava  
+- tajomná žena, dedinčania
+
+Príbeh Mareka, ktorý sa po smrti ženy vydáva do hôr, kde stretáva tajomnú bytosť. Dielo je plné symboliky, prírodných motívov a filozofických úvah o smrti, osude a láske.
 
 ---
 <div align="center">

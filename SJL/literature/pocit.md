@@ -11,13 +11,19 @@
     </div>
 <h1>Pocit</h1>
     <div align="right">
-        <h3>Jean Arthur Rimband</h3>
+        <h3>Jean Arthur Rimbaud</h3>
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Symbolizmus_ - Francúzska literatúra  
+__Forma__:  
+- **Báseň** - moderná lyrika
+
+### Dej
+__Postavy__:  
+- *lyrický subjekt* – autorove pocity
+
+Krátka báseň vyjadruje túžbu po slobode, únik do prírody a splynutie s ňou. Rimbaud využíva zmyslové obrazy, symboly a hudobnosť jazyka.
 
 ---
 <div align="center">

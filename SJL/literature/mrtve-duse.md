@@ -15,9 +15,16 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Realizmus_ - Ruská literatúra  
+__Forma__:  
+- **Román** - satirický spoločenský román
+
+### Dej
+__Postavy__:  
+- *Pavel Ivanovič Čičikov* – hlavná postava  
+- rôzni statkári, úradníci
+
+Čičikov cestuje po Rusku a kupuje "mŕtve duše" – zosnulých nevoľníkov, ktorí sú stále evidovaní v súpisoch. Chce na nich získať pôžičku a zbohatnúť. Dielo je satirou na ruskú spoločnosť, byrokraciu a ľudské slabosti.
 
 ---
 <div align="center">

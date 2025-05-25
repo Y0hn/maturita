@@ -15,9 +15,16 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Realizmus_ - Ruská literatúra  
+__Forma__:  
+- **Divadelná hra** - satirická komédia
+
+### Dej
+__Postavy__:  
+- *Chlestakov* – úradník, vydávaný za revízora  
+- starosta, úradníci, obyvateľstvo
+
+Do malého mesta má prísť revízor z Petrohradu. Úradníci v panike považujú za revízora náhodného úradníka Chlestakova, ktorý ich podvedie a zneužije ich strach. Hra kritizuje korupciu, byrokraciu a pokrytectvo.
 
 ---
 <div align="center">

@@ -15,9 +15,15 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Modernizmus_ - Slovenská literatúra  
+__Forma__:  
+- **Básnická zbierka** - reflexívna poézia
+
+### Dej
+__Postavy__:  
+- *lyrický subjekt* – autorove myšlienky
+
+Zbierka obsahuje básne s existenciálnymi a spoločenskými témami. Motív zabíjania králikov symbolizuje krutosť, bezmocnosť a otázky viny v ľudskom živote. Válek využíva iróniu, metaforu a moderný jazyk.
 
 ---
 <div align="center">

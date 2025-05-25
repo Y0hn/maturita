@@ -15,9 +15,15 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Modernizmus_ - Slovenská literatúra  
+__Forma__:  
+- **Sonetový cyklus** - protivojnová poézia
+
+### Dej
+__Postavy__:  
+- *lyrický subjekt* – autorove postoje
+
+Zbierka 32 sonetov napísaných počas 1. svetovej vojny. Autor odsudzuje vojnu, násilie, utrpenie a apeluje na ľudskosť, mier a spravodlivosť. Vyjadruje smútok nad osudom Európy a ľudstva.
 
 ---
 <div align="center">

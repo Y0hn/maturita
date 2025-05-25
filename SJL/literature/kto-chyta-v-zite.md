@@ -15,9 +15,16 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _20. storočie_ - Americká literatúra  
+__Forma__:  
+- **Román** - generačný román
+
+### Dej
+__Postavy__:  
+- *Holden Caulfield* – hlavná postava  
+- Phoebe, rodičia, spolužiaci
+
+Príbeh dospievajúceho Holdena, ktorý po vylúčení zo školy blúdi New Yorkom. Hľadá zmysel života, bojuje s pokrytectvom dospelých a túži ochrániť detskú nevinnosť. Dielo je symbolom mladíckej revolty a hľadania identity.
 
 ---
 <div align="center">

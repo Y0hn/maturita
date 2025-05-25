@@ -15,9 +15,17 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Romantizmus_ - Ruská literatúra  
+__Forma__:  
+- **Historická novela** - príbeh na pozadí Pugačovho povstania
+
+### Dej
+__Postavy__:  
+- *Petr Grinev* – mladý šľachtic  
+- Mária Mironovová – kapitánova dcéra  
+- Pugačov – vodca povstania
+
+Príbeh lásky Petra a Márie počas povstania. Petr sa dostáva do zajatia, Pugačov mu pomôže. Dielo ukazuje česť, vernosť, odvahu a spoločenské pomery v Rusku 18. storočia.
 
 ---
 <div align="center">

@@ -15,9 +15,16 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Stredovek_ - Talianska literatúra  
+__Forma__:  
+- **Epos** - alegorická báseň
+
+### Dej
+__Postavy__:  
+- *Dante* – pútnik  
+- Vergilius, Beatrice
+
+Dielo opisuje putovanie Danteho cez Peklo, Očistec a Raj. Každá časť symbolizuje cestu človeka k spáse. Dielo je plné alegórií, filozofických a náboženských úvah o zmysle života a spravodlivosti.
 
 ---
 <div align="center">

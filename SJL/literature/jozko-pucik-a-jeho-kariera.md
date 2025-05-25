@@ -15,9 +15,16 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Realizmus_ - Slovenská literatúra  
+__Forma__:  
+- **Divadelná hra** - satirická komédia
+
+### Dej
+__Postavy__:  
+- *Jožko Púčik* – úradník  
+- jeho kolegovia, nadriadení
+
+Komédia o naivnom úradníkovi, ktorý sa stane obeťou intríg a byrokracie. Dielo kritizuje spoločenské pomery, úradnícku hlúposť a pokrytectvo.
 
 ---
 <div align="center">

@@ -15,9 +15,16 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Slovenská literatúra po 2. svetovej vojne_  
+__Forma__:  
+- **Román** - psychologická próza
+
+### Dej
+__Postavy__:  
+- *Ján* – hlavná postava  
+- jeho rodina, partizáni, dedinčania
+
+Román zachytáva osudy rodiny počas vojny a SNP. Hlavným motívom je materstvo, zodpovednosť, strata a nádej v ťažkých časoch. Dielo analyzuje psychológiu postáv a spoločenské zmeny.
 
 ---
 <div align="center">

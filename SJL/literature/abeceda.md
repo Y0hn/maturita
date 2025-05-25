@@ -15,9 +15,15 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Súčasná slovenská literatúra_  
+__Forma__:  
+- **Básnická zbierka** - poézia pre deti
+
+### Dej
+__Postavy__:  
+- *lyrický subjekt* – dieťa, rodič
+
+Zbierka básní pre deti, v ktorej každé písmeno abecedy inšpiruje jednu báseň. Rúfus cez jednoduché obrazy a jazyk rozvíja detskú fantáziu, lásku k svetu a hodnotám.
 
 ---
 <div align="center">

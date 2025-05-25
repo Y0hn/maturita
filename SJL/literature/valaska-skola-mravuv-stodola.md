@@ -15,9 +15,15 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Barok_ - Slovenská literatúra  
+__Forma__:  
+- **Didaktická báseň** - mravoučná poézia
+
+### Dej
+__Postavy__:  
+- *autor* – učiteľ, pastier
+
+Rozsiahle didaktické dielo v 17 862 veršoch, ktoré ponúka rady o mravnom živote, viere, práci a medziľudských vzťahoch. Gavlovič využíva jednoduchý jazyk, príslovia a príklady zo života.
 
 ---
 <div align="center">

@@ -15,9 +15,15 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Romantizmus_ - Slovenská literatúra  
+__Forma__:  
+- **Básnická skladba** - revolučná poézia
+
+### Dej
+__Postavy__:  
+- *lyrický subjekt* – básnik, bojovník
+
+Báseň vyjadruje túžbu po slobode, revolúcii a zmene. Kráľ využíva dynamické obrazy, symboliku a expresívny jazyk na vyjadrenie nepokoja a túžby po lepšom svete.
 
 ---
 <div align="center">

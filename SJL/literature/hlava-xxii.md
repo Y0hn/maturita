@@ -15,9 +15,16 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _20. storočie_ - Americká literatúra  
+__Forma__:  
+- **Román** - satirický vojnový román
+
+### Dej
+__Postavy__:  
+- *Yossarian* – bombardér, hlavná postava  
+- major Major, plukovník Cathcart, Milo Minderbinder, ďalší vojaci
+
+Román zobrazuje absurdity vojny a vojenskej byrokracie počas 2. svetovej vojny. Yossarian sa snaží uniknúť z vojny, ale naráža na nezmyselné pravidlo "hlava XXII" – kto je príčetný, nechce lietať, ale ak o to požiada, nie je blázon a musí lietať. Dielo je kritikou vojny, systému a ľudskej absurdity.
 
 ---
 <div align="center">

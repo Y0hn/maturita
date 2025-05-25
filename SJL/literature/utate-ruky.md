@@ -15,9 +15,16 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Slovenská literatúra po 2. svetovej vojne_  
+__Forma__:  
+- **Román** - vojnový román
+
+### Dej
+__Postavy__:  
+- *mladí partizáni*  
+- obyvatelia mesta, fašisti
+
+Román zachytáva osudy mladých ľudí počas SNP v meste Čadca. Hlavným motívom je odvaha, obeta a tragédia vojny. Dielo je kritikou fašizmu a oslavou hrdinstva.
 
 ---
 <div align="center">

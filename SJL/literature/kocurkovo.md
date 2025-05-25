@@ -15,9 +15,16 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Obrodenie_ - Slovenská literatúra  
+__Forma__:  
+- **Divadelná hra** - satirická veselohra
+
+### Dej
+__Postavy__:  
+- *Kocúrkovčania* – kolektívna postava  
+- Ján, Žofa, ďalší obyvatelia
+
+Veselohra o mestečku, kde vládne hlúposť, byrokracia a malomeštiactvo. Chalupka satiricky kritizuje spoločenské neduhy, pokrytectvo a konzervativizmus.
 
 ---
 <div align="center">

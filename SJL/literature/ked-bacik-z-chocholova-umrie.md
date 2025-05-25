@@ -15,9 +15,16 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Realizmus_ - Slovenská literatúra  
+__Forma__:  
+- **Poviedka** - satirická próza
+
+### Dej
+__Postavy__:  
+- *Ondrej Tráva* – hlavná postava  
+- Aduš Domanický, báčik z Chochoľova
+
+Ondrej Tráva dúfa, že zdedí majetok po vzdialenom príbuznom – báčikovi z Chochoľova. Stretáva Aduša, ktorý ho podvedie. Poviedka kritizuje naivitu, lakomstvo a ľudské slabosti.
 
 ---
 <div align="center">

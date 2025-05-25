@@ -15,9 +15,16 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Medzivojnová slovenská próza_  
+__Forma__:  
+- **Román** - vojnový román
+
+### Dej
+__Postavy__:  
+- *Adam Hlavaj* – hlavná postava  
+- jeho rodina, dedinčania, vojaci
+
+Román zobrazuje život na slovenskej dedine počas 1. svetovej vojny. Ľudia trpia biedou, hladom, násilím a útlakom. Dielo je kritikou vojny, nespravodlivosti a ukazuje silu ľudského odporu.
 
 ---
 <div align="center">

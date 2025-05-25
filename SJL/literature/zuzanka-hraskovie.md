@@ -15,9 +15,16 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Realizmus_ - Slovenská literatúra  
+__Forma__:  
+- **Novela** - psychologická próza
+
+### Dej
+__Postavy__:  
+- *Zuzanka Hraškovie* – hlavná postava  
+- jej matka, nápadníci, dedinčania
+
+Príbeh mladej ženy, ktorá túži po láske a šťastí, no jej očakávania sa nenaplnia. Novela analyzuje vnútorný svet Zuzanky, jej sklamania a osamelosť v dedinskom prostredí.
 
 ---
 <div align="center">

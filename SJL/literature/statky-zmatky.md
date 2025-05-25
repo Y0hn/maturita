@@ -15,9 +15,16 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Realizmus_ - Slovenská literatúra  
+__Forma__:  
+- **Divadelná hra** - sociálna dráma
+
+### Dej
+__Postavy__:  
+- *Zuzka* – mladá žena  
+- Ďuro, jeho matka, dedinčania
+
+Hra zobrazuje dedinský život a konflikt medzi túžbou po majetku (statky) a skutočnými hodnotami (láska, rodina). Zuzka je nútená vydať sa za bohatého, ale nemilovaného muža. Dielo kritizuje chamtivosť a pokrytectvo.
 
 ---
 <div align="center">

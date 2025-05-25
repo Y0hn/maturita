@@ -15,9 +15,15 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Renesancia_ - Talianska literatúra  
+__Forma__:  
+- **Novelový cyklus** - 100 noviel
+
+### Dej
+__Postavy__:  
+- *desať mladých ľudí* – rozprávači príbehov
+
+Počas moru v 14. storočí sa skupina mladých ľudí uchýli na vidiek a rozpráva si príbehy o láske, šikovnosti, šťastí i ľudskej hlúposti. Dielo je oslavou života, rozumu a ľudskej vynaliezavosti.
 
 ---
 <div align="center">

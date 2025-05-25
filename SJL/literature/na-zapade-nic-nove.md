@@ -11,13 +11,20 @@
     </div>
 <h1>Na západe nič nové</h1>
     <div align="right">
-        <h3>Janko Chalupka</h3>
+        <h3>Erich Maria Remarque</h3>
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _20. storočie_ - Nemecká literatúra  
+__Forma__:  
+- **Román** - protivojnový príbeh
+
+### Dej
+__Postavy__:  
+- *Paul Bäumer* – hlavná postava  
+- jeho priatelia z vojny
+
+Román zachytáva osudy nemeckých vojakov na západnom fronte počas 1. svetovej vojny. Autor realisticky opisuje hrôzy vojny, stratu ilúzií, smrť priateľov a psychické utrpenie vojakov. Dielo je kritikou vojny a jej nezmyselnosti.
 
 ---
 <div align="center">

@@ -15,9 +15,16 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Romantizmus_ - Slovenská literatúra  
+__Forma__:  
+- **Lyricko-epická báseň** - baladický príbeh
+
+### Dej
+__Postavy__:  
+- *Janko* – hlavná postava  
+- zakliata panna, matka
+
+Príbeh o mladíkovi Jankovi, ktorý túži po láske a šťastí. Stretáva zakliatu pannu vo Váhu, ktorá ho láka do vody. Janko podľahne túžbe po ideáli a zomiera. Báseň je symbolom nenaplnených túžob a obetovania sa.
 
 ---
 <div align="center">

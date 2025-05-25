@@ -15,9 +15,16 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Slovenská próza 20. storočia_  
+__Forma__:  
+- **Novela** - lyrizovaná próza
+
+### Dej
+__Postavy__:  
+- *Malka* – hlavná postava  
+- jej matka, dedinčania
+
+Príbeh dievčaťa, ktoré sa po smrti matky ocitá v ťažkej životnej situácii. Novela je plná prírodných motívov, symboliky a analyzuje osamelosť, túžbu po láske a domove.
 
 ---
 <div align="center">

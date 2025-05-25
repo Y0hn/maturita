@@ -15,9 +15,16 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Klasicizmus_ - Francúzska literatúra  
+__Forma__:  
+- **Tragikomédia** - hrdinská dráma
+
+### Dej
+__Postavy__:  
+- *Rodrigo (Cid)*  
+- Chiména, kráľ, Don Diego, Don Gomes
+
+Príbeh španielskeho hrdinu, ktorý musí voliť medzi láskou a cťou. Rodrigo zabije Chiméninho otca v súboji, aby obhájil česť svojho otca. Chiména žiada pomstu, no stále miluje Rodriga. Dielo rieši konflikt medzi citom a povinnosťou.
 
 ---
 <div align="center">

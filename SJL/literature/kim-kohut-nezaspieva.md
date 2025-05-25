@@ -15,9 +15,16 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Slovenská literatúra po 2. svetovej vojne_  
+__Forma__:  
+- **Divadelná hra** - psychologická dráma
+
+### Dej
+__Postavy__:  
+- *dedinčania* – kolektívna postava  
+- partizán, Nemci
+
+Hra zobrazuje morálnu dilemu dediny, ktorá musí vydať jedného zo svojich, aby zachránila ostatných pred nacistickou odvetou. Dielo analyzuje vinu, zodpovednosť a ľudskosť v hraničných situáciách.
 
 ---
 <div align="center">

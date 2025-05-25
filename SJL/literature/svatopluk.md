@@ -15,9 +15,16 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Klassicizmus_ - Slovenská literatúra  
+__Forma__:  
+- **Epos** - hrdinská epická báseň
+
+### Dej
+__Postavy__:  
+- *Svätopluk* – knieža Veľkej Moravy  
+- Mojmír, Pribina, Maďari, vojaci
+
+Epos opisuje boj Svätopluka proti Maďarom, jeho odvahu, múdrosť a lásku k vlasti. Dielo oslavuje slovenskú minulosť, národnú hrdosť a jednotu.
 
 ---
 <div align="center">

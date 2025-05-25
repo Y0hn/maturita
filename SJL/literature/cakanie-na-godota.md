@@ -15,9 +15,16 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Modernizmus_ - Absurdná dráma  
+__Forma__:  
+- **Divadelná hra** - absurdná dráma
+
+### Dej
+__Postavy__:  
+- *Vladimir, Estragon* – dvaja tuláci  
+- Pozzo, Lucky, chlapec
+
+Dve postavy čakajú na neznámeho Godota, ktorý nikdy nepríde. Hra je symbolom absurdity ľudskej existencie, hľadania zmyslu života a márnosti čakania.
 
 ---
 <div align="center">

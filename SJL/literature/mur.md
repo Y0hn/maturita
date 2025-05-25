@@ -15,9 +15,16 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Existencializmus_ - Francúzska literatúra  
+__Forma__:  
+- **Poviedkový cyklus** - existencialistická próza
+
+### Dej
+__Postavy__:  
+- *Pablo Ibbieta* – hlavná postava poviedky "Múr"  
+- ďalšie postavy v cykle
+
+Zbierka poviedok, v ktorých autor analyzuje pocity úzkosti, samoty, absurdity a smrti. Poviedka "Múr" zachytáva posledné hodiny väzňa pred popravou a jeho vnútorný boj so strachom a nezmyselnosťou existencie.
 
 ---
 <div align="center">

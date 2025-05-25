@@ -15,9 +15,16 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Slovenská próza 20. storočia_  
+__Forma__:  
+- **Román** - lyrizovaná próza
+
+### Dej
+__Postavy__:  
+- *Peter* – hlavná postava  
+- Magdaléna, Ján
+
+Príbeh lásky Petra a Magdalény, ktorú rozdelí Magdalénin sobáš s Jánom. Peter sa rozhodne Magdalénu zachrániť z nešťastného manželstva. Dielo je plné symboliky, prírodných motívov a filozofických úvah o osude a láske.
 
 ---
 <div align="center">

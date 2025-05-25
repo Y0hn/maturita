@@ -17,11 +17,13 @@
 
 __Obdobie__: _Slovenská medzivojnová literatúra_  
 __Forma__:  
-- **lyrická báseň**
+- **Lyrická báseň** - symbolistická poézia
 
-### Obsah
-Využíva symboliku – topole sú jeho bolesť, prirovnáva vysoké ošarpané, holé topole k svojmu životu, uvedomuje si, že je bez šťastia a radosti. Topole však hrdo stoja v mraze rovnako ako on sa chce podať osudu, snaží sa nájsť východisko, ešte nerezignoval. Ale napriek tomu má pocit, že sa uberá do prázdnoty. Vyjadruje to pojem ničota, prázdnota – kt. použil. Keď vidí ako odlieta ošarpatný havran do noci, uvedomuje si, že už nemôže vrátiť čas, myslí si, že je starý na nový začiatok – tu už úplne rezignuje.
+### Dej
+__Postavy__:  
+- *lyrický subjekt* – autorove pocity
 
+Báseň využíva symboliku topoľov ako obrazu samoty, bolesti a životnej rezignácie. Lyrický subjekt sa stotožňuje s holými, ošarpanými topoľmi, ktoré vzdorujú mrazu, no zároveň cíti prázdnotu a márnosť. Motív havrana symbolizuje nenávratnosť minulosti a pocit, že je neskoro začať znova.
 
 ---
 <div align="center">

@@ -15,9 +15,15 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Modernizmus_ - Francúzska literatúra  
+__Forma__:  
+- **Básnická zbierka** - symbolizmus
+
+### Dej
+__Postavy__:  
+- *lyrický subjekt* – autorove pocity
+
+Zbierka básní, ktoré skúmajú krásu i temné stránky života, lásku, smrť, úzkosť a dekadenciu. Baudelaire využíva symboly, kontrasty a hudobnosť jazyka. Dielo ovplyvnilo modernú poéziu.
 
 ---
 <div align="center">

@@ -15,9 +15,15 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Medzivojnová slovenská literatúra_  
+__Forma__:  
+- **Básnická zbierka** - reflexívna lyrika
+
+### Dej
+__Postavy__:  
+- *lyrický subjekt* – autorove úvahy
+
+Zbierka básní, ktoré sa zamýšľajú nad protikladmi života, viery, pochybností a ľudskej existencie. Lukáč využíva paradox ako základný výrazový prostriedok.
 
 ---
 <div align="center">

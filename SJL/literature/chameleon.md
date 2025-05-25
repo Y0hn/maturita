@@ -15,9 +15,16 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Realizmus_ - Ruská literatúra  
+__Forma__:  
+- **Poviedka** - satirická próza
+
+### Dej
+__Postavy__:  
+- *Ochmeľdov* – policajný dozorc  
+- Hryuchin, pes, občania
+
+Krátka satira na servilnosť a prispôsobivosť úradníkov. Ochmeľdov mení svoj postoj k prípadu uhryznutia podľa toho, komu pes patrí. Poviedka kritizuje pokrytectvo a malomeštiactvo.
 
 ---
 <div align="center">

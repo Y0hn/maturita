@@ -11,13 +11,20 @@
     </div>
 <h1>Ťapákovci</h1>
     <div align="right">
-        <h3>Božena Slančíkova Timrava</h3>
+        <h3>Božena Slančíková Timrava</h3>
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Realizmus_ - Slovenská literatúra  
+__Forma__:  
+- **Novela** - spoločenská a psychologická próza
+
+### Dej
+__Postavy__:  
+- *Iľa* – energická nevesta  
+- Anča, Paľo, ostatní členovia rodiny Ťapákovcov
+
+Novela zobrazuje život veľkej rodiny Ťapákovcov, ktorí žijú v nečinnosti a lenivosti. Iľa sa snaží zmeniť ich spôsob života, no stretáva sa s odporom. Dielo kritizuje pasivitu, konzervativizmus a neschopnosť prijať zmenu.
 
 ---
 <div align="center">

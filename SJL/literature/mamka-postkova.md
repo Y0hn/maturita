@@ -15,9 +15,16 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Realizmus_ - Slovenská literatúra  
+__Forma__:  
+- **Poviedka** - sociálna próza
+
+### Dej
+__Postavy__:  
+- *Mamka Pôstková* – chudobná, obetavá žena  
+- jej syn, dedinčania
+
+Príbeh o matke, ktorá sa obetuje pre svojho syna, aj keď ju on zradí a okradne. Poviedka poukazuje na biedu, materinskú lásku a sociálne problémy slovenského vidieka.
 
 ---
 <div align="center">

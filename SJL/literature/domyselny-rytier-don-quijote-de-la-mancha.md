@@ -15,9 +15,17 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Barok_ - Španielska literatúra  
+__Forma__:  
+- **Román** - paródia rytierskych románov
+
+### Dej
+__Postavy__:  
+- *Don Quijote* – rytier  
+- Sancho Panza – jeho sluha  
+- Dulcinea, ďalšie postavy
+
+Don Quijote sa pod vplyvom rytierskych románov vydáva na dobrodružstvá, aby bojoval za spravodlivosť. Jeho ideály sa stretávajú s realitou, často pôsobí smiešne. Dielo je satirou na spoločnosť a ľudské ilúzie.
 
 ---
 <div align="center">

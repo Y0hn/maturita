@@ -15,9 +15,16 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _20. storočie_ - Americká literatúra  
+__Forma__:  
+- **Román** - vojnový román
+
+### Dej
+__Postavy__:  
+- *Seržant Croft*  
+- vojaci americkej jednotky
+
+Román zachytáva osudy amerických vojakov počas bojov v Tichomorí za 2. svetovej vojny. Autor analyzuje psychológiu vojakov, ich strach, odvahu, vzťahy a nezmyselnosť vojny.
 
 ---
 <div align="center">

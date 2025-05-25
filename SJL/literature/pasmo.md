@@ -15,9 +15,15 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Modernizmus_ - Francúzska literatúra  
+__Forma__:  
+- **Voľný verš** - moderná báseň, bez interpunkcie
+
+### Dej
+__Postavy__:  
+- *lyrický subjekt* – autorove myšlienky, pocity
+
+Báseň je manifestom moderného života, zachytáva rýchlosť, pohyb, mestá, techniku, spomienky i sny. Typické sú asociácie, voľné obrazy, prelínanie minulosti a prítomnosti. "Pásmo" je úvodnou básňou zbierky "Alkohol".
 
 ---
 <div align="center">

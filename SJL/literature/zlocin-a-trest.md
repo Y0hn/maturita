@@ -15,9 +15,16 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Realizmus_ - Ruská literatúra  
+__Forma__:  
+- **Román** - psychologická próza
+
+### Dej
+__Postavy__:  
+- *Rodion Raskoľnikov* – hlavná postava  
+- Soňa, matka, sestra, Svidrigajlov, Porfirij
+
+Príbeh študenta Raskoľnikova, ktorý spácha vraždu úžerníčky a zápasí s výčitkami svedomia. Dielo analyzuje psychológiu zločinu, vinu, trest a cestu k vykúpeniu cez lásku a pokánie.
 
 ---
 <div align="center">

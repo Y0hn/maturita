@@ -15,9 +15,16 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Romantizmus_ - Slovenská literatúra  
+__Forma__:  
+- **Básnická skladba** - baladická epika
+
+### Dej
+__Postavy__:  
+- *Jánošík* – legendárny zbojník  
+- zbojníci, ľud, sudcovia
+
+Báseň opisuje posledné dni a smrť Jánošíka, ktorý sa stáva symbolom odporu proti útlaku. Dielo je plné symboliky, folklórnych motívov a vlasteneckých ideálov.
 
 ---
 <div align="center">

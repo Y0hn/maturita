@@ -15,9 +15,16 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Slovenská próza 20. storočia_  
+__Forma__:  
+- **Novela** - lyrizovaná próza
+
+### Dej
+__Postavy__:  
+- *Drak (Martin Lepiš)* – hlavná postava  
+- Eva, Šimon, dedinčania
+
+Drak sa po rokoch vracia do dediny, kde ho považujú za pôvodcu nešťastia. Spolu s mužmi odchádza zachrániť stádo pred suchom. Novela analyzuje predsudky, vinu, osud a vzťahy medzi ľuďmi.
 
 ---
 <div align="center">

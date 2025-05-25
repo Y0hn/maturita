@@ -15,9 +15,16 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Realizmus_ - Slovenská literatúra  
+__Forma__:  
+- **Novela** - psychologická próza
+
+### Dej
+__Postavy__:  
+- *Jano* – hlavná postava  
+- jeho rodina, dedinčania
+
+Príbeh o smrti a pohrebe v dedinskom prostredí. Novela analyzuje medziľudské vzťahy, pokrytectvo, chamtivosť a ľudskú malichernosť v konfrontácii so smrťou.
 
 ---
 <div align="center">

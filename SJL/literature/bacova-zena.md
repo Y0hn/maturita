@@ -15,9 +15,16 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Slovenská literatúra 20. storočia_  
+__Forma__:  
+- **Divadelná hra** - psychologická dráma
+
+### Dej
+__Postavy__:  
+- *Bača Ondrej*  
+- jeho žena Eva, synovia, dedinčania
+
+Hra zobrazuje návrat baču Ondreja z Ameriky a jeho konflikt s rodinou a dedinou. Rieši otázky viny, odpustenia, rodinných vzťahov a tradícií na slovenskej dedine.
 
 ---
 <div align="center">

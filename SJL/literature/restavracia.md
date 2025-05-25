@@ -15,9 +15,16 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Obrodenie_ - Slovenská literatúra  
+__Forma__:  
+- **Román** - spoločenský román
+
+### Dej
+__Postavy__:  
+- *Ondrej Tráva*  
+- zemania, dedinčania
+
+Román zobrazuje voľby do uhorského snemu (reštavráciu) na slovenskej dedine. Autor satiricky kritizuje zemanov, ich intrigy, úplatkárstvo a spoločenské pomery v Uhorsku.
 
 ---
 <div align="center">

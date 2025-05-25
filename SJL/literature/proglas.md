@@ -15,9 +15,15 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Stredovek_ - Staroslovienska literatúra  
+__Forma__:  
+- **Predslov** - veršovaná báseň
+
+### Dej
+__Postavy__:  
+- *Konštantín Filozof* – autor
+
+Prvá slovanská veršovaná báseň, predslov k prekladu evanjelií. Zdôrazňuje význam vzdelania, písma a viery v materinskom jazyku. Dielo je oslavou slovanskej kultúry a duchovnosti.
 
 ---
 <div align="center">

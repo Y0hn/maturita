@@ -15,9 +15,16 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Romantizmus_ - Francúzska literatúra  
+__Forma__:  
+- **Román** - historický román
+
+### Dej
+__Postavy__:  
+- *Quasimodo* – zvonár  
+- Esmeralda, Frollo, Phoebus
+
+Príbeh tragickej lásky zvonára Quasimoda k Esmeralde na pozadí stredovekého Paríža. Dielo zobrazuje spoločenské predsudky, krutosť, súcit a túžbu po láske a slobode.
 
 ---
 <div align="center">

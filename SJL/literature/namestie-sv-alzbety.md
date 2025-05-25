@@ -11,13 +11,20 @@
     </div>
 <h1>Námestie svätej Alžbety</h1>
     <div align="right">
-        <h3>Janko Chalupka</h3>
+        <h3>Rudolf Jašík</h3>
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Slovenská literatúra po 2. svetovej vojne_  
+__Forma__:  
+- **Román** - vojnový román
+
+### Dej
+__Postavy__:  
+- *Igor* – hlavná postava  
+- Eva, židovská komunita, fašisti
+
+Príbeh lásky medzi slovenským chlapcom a židovským dievčaťom počas 2. svetovej vojny v meste na východnom Slovensku. Dielo zobrazuje tragédiu holokaustu, odvahu, obetu a ľudskosť v neľudských podmienkach.
 
 ---
 <div align="center">

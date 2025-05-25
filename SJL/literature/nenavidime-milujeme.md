@@ -15,9 +15,15 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Súčasná slovenská literatúra_  
+__Forma__:  
+- **Básnická zbierka** - reflexívna lyrika
+
+### Dej
+__Postavy__:  
+- *lyrický subjekt* – autorove úvahy
+
+Zbierka básní o základných hodnotách človeka – láske, nenávisti, viere, nádeji. Rúfus sa zamýšľa nad zmyslom života, ľudskosťou a morálkou v modernom svete.
 
 ---
 <div align="center">

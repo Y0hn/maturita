@@ -15,9 +15,16 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _20. storočie_ - Slovenská literatúra  
+__Forma__:  
+- **Román** - politická próza
+
+### Dej
+__Postavy__:  
+- *Prvý* – vysoký komunistický funkcionár  
+- jeho spolupracovníci, rodina
+
+Román analyzuje mechanizmy moci v totalitnom režime. Po smrti "Prvého" sa odhaľujú jeho skutočné činy, pokrytectvo a strach jeho okolia. Dielo je kritikou zneužívania moci a morálneho úpadku.
 
 ---
 <div align="center">

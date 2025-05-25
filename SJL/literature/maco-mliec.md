@@ -15,9 +15,16 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Realizmus_ - Slovenská literatúra  
+__Forma__:  
+- **Poviedka** - sociálna próza
+
+### Dej
+__Postavy__:  
+- *Maco Mlieč* – jednoduchý, dobrosrdečný pastier  
+- gazda, dedinčania
+
+Príbeh o chudobnom pastierovi, ktorý celý život verne slúži gazdovi. Maco je symbolom obetavosti, skromnosti a ľudskej dôstojnosti. Poviedka poukazuje na sociálnu nespravodlivosť a biedu.
 
 ---
 <div align="center">

@@ -15,9 +15,16 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Klassicizmus_ - Slovenská literatúra  
+__Forma__:  
+- **Lyricko-epická skladba** - sonetový veniec
+
+### Dej
+__Postavy__:  
+- *Mína* – Kollárova múza  
+- Sláva – alegória slovanstva
+
+Dielo je oslavou slovanskej vzájomnosti, lásky k vlasti a slobode. Autor putuje po slovanských krajinách, vyjadruje obdiv k minulosti a nádej v budúcnosť Slovanov. Mína je symbolom ideálu a Slávy dcéry.
 
 ---
 <div align="center">

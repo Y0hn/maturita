@@ -15,9 +15,15 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Súčasná slovenská literatúra_  
+__Forma__:  
+- **Básnická zbierka** - reflexívna lyrika
+
+### Dej
+__Postavy__:  
+- *lyrický subjekt* – autorove úvahy
+
+Zbierka básní, ktoré sa zamýšľajú nad zmyslom života, viery, smrti, detstva a ľudských hodnôt. Rúfus využíva symboliku zvonov ako hlasu svedomia a pamäti národa.
 
 ---
 <div align="center">

@@ -15,9 +15,15 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Slovenská literatúra 20. storočia_  
+__Forma__:  
+- **Básnická zbierka** - avantgarda
+
+### Dej
+__Postavy__:  
+- *lyrický subjekt* – autorove myšlienky
+
+Zbierka básní, v ktorej autor experimentuje s jazykom, obrazmi a formou. Dielo je typické hravosťou, iróniou a moderným pohľadom na svet.
 
 ---
 <div align="center">

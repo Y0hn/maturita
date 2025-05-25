@@ -15,9 +15,15 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Súčasná slovenská literatúra_  
+__Forma__:  
+- **Báseň** - moderná lyrika
+
+### Dej
+__Postavy__:  
+- *lyrický subjekt* – autorove pocity
+
+Báseň je známa najmä vďaka zhudobneniu skupinou Elán. Vyjadruje túžbu po láske, nádej, bolesť i silu prekonávať prekážky. Symbol vody predstavuje životnú energiu a oporu v ťažkých chvíľach.
 
 ---
 <div align="center">

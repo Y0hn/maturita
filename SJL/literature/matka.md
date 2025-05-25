@@ -15,9 +15,16 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Realizmus_ - Ruská literatúra  
+__Forma__:  
+- **Román** - sociálny román
+
+### Dej
+__Postavy__:  
+- *Pavlovova matka* – hlavná postava  
+- Pavel, robotníci
+
+Príbeh matky, ktorá sa pod vplyvom syna Pavla zapája do robotníckeho hnutia. Dielo zobrazuje prebudenie sociálneho cítenia, boj za spravodlivosť a obetu pre ideály.
 
 ---
 <div align="center">

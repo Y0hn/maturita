@@ -15,9 +15,16 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Romantizmus_ - Slovenská literatúra  
+__Forma__:  
+- **Lyricko-epická báseň** - národná epopeja
+
+### Dej
+__Postavy__:  
+- *Martin Hudec* – hlavná postava  
+- Elena, kráľ Matej, zbojníci
+
+Príbeh Martina, ktorý zachráni Elenu pred zbojníkmi a neskôr sa postaví pred kráľa Mateja. Dielo oslavuje slovenský ľud, prírodu, odvahu a čestnosť. Detvan je symbolom národného hrdinu a slovenského charakteru.
 
 ---
 <div align="center">

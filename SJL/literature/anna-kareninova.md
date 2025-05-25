@@ -15,9 +15,16 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Realizmus_ - Ruská literatúra  
+__Forma__:  
+- **Román** - psychologický a spoločenský román
+
+### Dej
+__Postavy__:  
+- *Anna Kareninová*  
+- Alexej Karenin, Vronskij, Levin, Kitty
+
+Príbeh tragickej lásky Anny a Vronského na pozadí ruskej spoločnosti. Anna opúšťa rodinu, spoločnosť ju odsudzuje, končí samovraždou. Paralelne sledujeme Levinov zápas o zmysel života a šťastie.
 
 ---
 <div align="center">

@@ -15,9 +15,16 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Realizmus_ - Slovenská literatúra  
+__Forma__:  
+- **Novela** - psychologická próza
+
+### Dej
+__Postavy__:  
+- *Eva Kolenová* – hlavná postava  
+- Ďurko, matka, dedinčania
+
+Príbeh mladej ženy, ktorá túži po láske a šťastí, no jej túžby zostávajú nenaplnené. Eva sa cíti ako suchá ratolesť – bez života a nádeje. Novela analyzuje vnútorný svet ženy, jej osamelosť a sklamanie.
 
 ---
 <div align="center">

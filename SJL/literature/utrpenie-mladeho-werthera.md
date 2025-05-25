@@ -15,9 +15,16 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Preromantizmus_ - Nemecká literatúra  
+__Forma__:  
+- **Román v listoch** - psychologická próza
+
+### Dej
+__Postavy__:  
+- *Werther* – hlavná postava  
+- Lotte, Albert
+
+Werther sa zamiluje do Lotte, ktorá je však zasnúbená s Albertom. Jeho nenaplnená láska a citová rozorvanosť ho dovedú k samovražde. Dielo je symbolom citového prežívania a konfliktu medzi snom a realitou.
 
 ---
 <div align="center">

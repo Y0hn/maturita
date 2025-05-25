@@ -15,9 +15,15 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _20. storočie_ - Ruská literatúra  
+__Forma__:  
+- **Román** - dokumentárna próza
+
+### Dej
+__Postavy__:  
+- *rozprávač* – autor, väzni, dozorcovia
+
+Dielo je dokumentárnym svedectvom o sovietskych pracovných táboroch (gulagoch). Autor opisuje utrpenie, krutosť, ponižovanie a boj o prežitie v totalitnom systéme. Dielo je kritikou stalinizmu a obranou ľudskej dôstojnosti.
 
 ---
 <div align="center">

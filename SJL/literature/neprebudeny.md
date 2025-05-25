@@ -15,9 +15,16 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Realizmus_ - Slovenská literatúra  
+__Forma__:  
+- **Novela** - psychologická próza
+
+### Dej
+__Postavy__:  
+- *Ondráš Machuľa* – jednoduchý, dobrosrdečný mládenec  
+- Zuzka, dedinčania
+
+Príbeh o Ondrášovi, ktorý je pre svoju prostotu terčom posmechu. Túži po láske Zuzky, no tá si vezme iného. Ondráš zomiera zo žiaľu. Novela je kritikou necitlivosti a krutosti dedinského kolektívu.
 
 ---
 <div align="center">

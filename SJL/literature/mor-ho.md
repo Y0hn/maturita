@@ -15,9 +15,16 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Romantizmus_ - Slovenská literatúra  
+__Forma__:  
+- **Básnická skladba** - národná epika
+
+### Dej
+__Postavy__:  
+- *slovenskí junáci*  
+- rímsky cisár, vojaci
+
+Báseň opisuje boj slovenských junákov proti rímskemu cisárovi. Junáci radšej zomrú, než by sa vzdali slobody. Dielo je symbolom vlastenectva, odvahy a odporu proti útlaku.
 
 ---
 <div align="center">

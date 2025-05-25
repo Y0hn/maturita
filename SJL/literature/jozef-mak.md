@@ -15,9 +15,16 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Medzivojnová slovenská próza_  
+__Forma__:  
+- **Román** - sociálno-psychologická próza
+
+### Dej
+__Postavy__:  
+- *Jozef Mak* – hlavná postava  
+- jeho matka, Maruša, Jula
+
+Príbeh obyčajného človeka, ktorý celý život zápasí s biedou, osudom a nešťastnou láskou. Jozef Mak je symbolom slovenského človeka – "človek milión", ktorý trpí, ale vytrvá.
 
 ---
 <div align="center">

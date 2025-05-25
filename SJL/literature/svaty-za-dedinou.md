@@ -15,9 +15,16 @@
     </div>
 </div>
 
-<div align="center">
-    <p>Comming soon : )</p>
-</div>
+__Obdobie__: _Medzivojnová slovenská próza_  
+__Forma__:  
+- **Román** - psychologická próza
+
+### Dej
+__Postavy__:  
+- *Ondrej* – hlavná postava  
+- jeho rodina, dedinčania
+
+Príbeh Ondreja, ktorý sa po návrate z vojny stáva pustovníkom za dedinou. Dielo analyzuje vinu, pokánie, vieru a vzťah človeka k prírode a spoločnosti.
 
 ---
 <div align="center">
