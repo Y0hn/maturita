@@ -11,17 +11,15 @@
 # Finančná Gramotnosť
 </div>
 
-# Otázka č.1
+# 1. Národné hospodárstvo
 
-## Národné hospodárstvo
-
-### Faktory národného hospodárstva
+## Faktory národného hospodárstva
 - **Prírodné zdroje** – pôda, voda, nerasty, energia
 - **Pracovná sila** – obyvatelia schopní pracovať
 - **Kapitál** – majetok a finančné zdroje
 - **Technológia** – úroveň technologického vývoja
 
-### Úloha národného hospodárstva
+## Úloha národného hospodárstva
 - Výroba tovarov a služieb
 - Zamestnanosť a príjmy
 - Distribúcia zdrojov
@@ -29,57 +27,55 @@
 - Technický, kultúrny a spoločenský pokrok
 - Ochrana životného prostredia
 
-### Riadenie a štruktúra
-#### Odvetvová štruktúra
+## Riadenie a štruktúra
+### Odvetvová štruktúra
 - Výrobné: priemysel, poľnohospodárstvo, atď.
 - Nevýrobné: školstvo, zdravotníctvo, atď.
 
-#### Sektorová štruktúra
+### Sektorová štruktúra
 - **Primárny**, **Sekundárny**, **Terciárny**, **Kvarciárny**
 
-#### Klasifikácia podľa produkcie (EÚ)
+### Klasifikácia podľa produkcie (EÚ)
 - Poľnohospodárstvo, priemysel, stavebníctvo, obchod, doprava, služby, atď.
 
-#### Regionálna štruktúra
+### Regionálna štruktúra
 - 8 krajov SR
 
-#### Riadenie
+### Riadenie
 - Zákonodarné, výkonné orgány, ministerstvá, miestne inštitúcie
 
-### Makroekonomické ukazovatele
+## Makroekonomické ukazovatele
 - **HDP** – podľa územia
 - **HNP** – podľa vlastníctva výrobných faktorov
 
 ---
 
-# Otázka č.2
+# 2. Trh a trhový mechanizmus
 
-## Trh a trhový mechanizmus
-
-### Definícia trhu
+## Definícia trhu
 Miesto výmeny tovarov a služieb medzi kupujúcimi a predávajúcimi.
 
-### Subjekty trhu
+## Subjekty trhu
 - Domácnosti
 - Podniky
 - Štát
 
-### Typy trhov
+## Typy trhov
 - **Územné**: miestny, regionálny, národný, svetový
 - **Vecné**: statky, výrobné faktory, finančný
 - **Kvantitatívne**: čiastkový, agregátny
 - **Právne**: legálny, pololegálny, nelegálny
 - **Regulácia**: voľný, viazaný
 
-### Ekonomické otázky
+## Ekonomické otázky
 - Čo? Ako? Pre koho vyrábať?
 
-### Trhové princípy
+## Trhové princípy
 - **Dopyt** – klesajúca krivka
 - **Ponuka** – stúpajúca krivka
 - **Rovnováha** – cena, kde sa stretáva ponuka a dopyt
 
-### Konkurencia
+## Konkurencia
 - Dopytová / ponuková
 - Cenová / necenová
 - Dokonalá / nedokonalá
@@ -89,137 +85,127 @@ Miesto výmeny tovarov a služieb medzi kupujúcimi a predávajúcimi.
 
 ---
 
-# Otázka č.3
+# 3. Fiškálna politika
 
-## Fiškálna politika
-
-### Rozdiel
+## Rozdiel
 - **Rozpočtová politika** – rozdelenie rozpočtu (MF SR)
 - **Fiškálna politika** – stabilizácia ekonomiky
 
-### Nástroje
+## Nástroje
 - Príjmová a výdavková strana rozpočtu
 
-#### Príjmová strana
+### Príjmová strana
 - Daňové príjmy: DPH, daň z príjmu
 - Nedaňové príjmy: poplatky, pokuty
 - Finančné: úroky, dividendy
 
-#### Priame dane
+### Priame dane
 - **FO** – 19% / 25%, bonusy, nezdaniteľné časti
 - **PO** – 15% / 21%
 - **Miestne dane** – nehnuteľnosti, psy, ubytovanie, atď.
 
-#### Nepriame dane
+### Nepriame dane
 - **DPH** – 20% / 10%
 - **Spotrebné dane** – alkohol, tabak, PHM
 - **Daň z poistenia**
 
-#### Daňové pojmy
+### Daňové pojmy
 - Daňovník, platiteľ, únik, raje
 
 ---
 
-# Otázka č.4
+# 4. Zákonník práce
 
-## Zákonník práce
-
-### Vznik pracovného pomeru
+## Vznik pracovného pomeru
 - Zmluva, menovanie, voľba
 
-### Obsah zmluvy
+## Obsah zmluvy
 - Druh práce, miesto, nástup, mzda, doba trvania, podpis
 
-### Povinnosti zamestnávateľa
+## Povinnosti zamestnávateľa
 - Prideľovať prácu, mzda, dovolenka, BOZP
 
-### Druhy miezd
+## Druhy miezd
 - Časová, úkolová, podielová, zmluvná, kombinovaná
 
-### Dovolenka
+## Dovolenka
 - Min. 4 týždne (5 po 33. roku)
 
-### Zmeny a ukončenie
+## Zmeny a ukončenie
 - Dohoda, výpoveď, skúšobná doba, okamžité ukončenie
 
 ---
 
-# Otázka č.5
+# 5. Platobný styk
 
-## Platobný styk
-
-### Typy
+## Typy
 - **Hotovostný**
 - **Bezhotovostný**
 - **Kombinovaný**
 
-### Platobné karty
+## Platobné karty
 - Debetné, kreditné, predplatené
 
-### Bezpečnostné prvky
+## Bezpečnostné prvky
 - Čip, PIN, CVV, 2FA
 
-### Výhody e-banking
+## Výhody e-banking
 - Rýchlosť, nonstop prístup, nízke náklady
 
-### Nevýhody
+## Nevýhody
 - Kybernetické riziká, technické problémy, závislosť na internete
 
 ---
 
-# Otázka č.6
+# 6. Finančný trh, banková sústava SR
 
-## Finančný trh, banková sústava SR
-
-### Subjekty
+## Subjekty
 - Spotrebiteľ, firma, štát
 
-### Banková sústava
+## Banková sústava
 - **NBS** (centrálna)
 - **Komerčné banky**
 
-### NBS – úlohy
+## NBS – úlohy
 - Menová politika, dohľad, emisia, vedenie účtov
 
-### Nástroje NBS
+## Nástroje NBS
 - **Priame** – úverové stropy, pravidlá likvidity
 - **Nepriame** – diskontná sadzba, rezervy, trh operácií
 
-### Monetárna politika
+## Monetárna politika
 - Expanzívna vs. reštriktívna
 
-### Komerčné banky
+## Komerčné banky
 - Pasívne, aktívne, sprostredkovateľské operácie
 
-### Riziká
+## Riziká
 - Interné: manažérske, platobné
 - Externé: politické, menové
 
 ---
 
-# Otázka č.7
+# 7. Podnik a právne formy podnikania
 
-## Podnik a právne formy podnikania
-
-### Podnik
+## Podnik
 Organizácia na dosahovanie zisku
 
-### Etapy
+## Etapy
 - **Založenie**
 - **Vznik**
 - **Zrušenie**
 - **Zánik**
 
-### SZČO a druhy živností
+## SZČO a druhy živností
 - Voľné, remeselné, viazané
 
-### Obchodné spoločnosti
+## Obchodné spoločnosti
 - **s.r.o.**, **a.s.**, **v.o.s.**, **k.s.**
 
-### Družstvá
+## Družstvá
 - Dobrovoľné združenie členov
 
-### Podnikanie bez právnej subjektivity
+## Podnikanie bez právnej subjektivity
 - FO, ručí vlastným majetkom
 
 # 8. Sporenie a investovanie, úver a dlh
